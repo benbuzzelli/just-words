@@ -12,7 +12,8 @@ const WORDS = [
     "roots": {
       "origin": "Coined by psychologist Dorothy Tennov in 1979, possibly from Latin 'limen' (threshold) — the threshold of emotional overwhelm."
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈlɪm.ər.əns/"
   },
   {
     "word": "sonder",
@@ -22,7 +23,8 @@ const WORDS = [
     "roots": {
       "origin": "Coined by John Koenig in 'The Dictionary of Obscure Sorrows' (2012). From German 'sonder' (special) and French 'sonder' (to probe)."
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈsɑn.dər/"
   },
   {
     "word": "petrichor",
@@ -36,7 +38,8 @@ const WORDS = [
         "ichor → ethereal fluid"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈpɛt.rɪ.kɔr/"
   },
   {
     "word": "ephemeral",
@@ -50,7 +53,8 @@ const WORDS = [
         "hemera → day"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɪˈfɛm.ər.əl/"
   },
   {
     "word": "mellifluous",
@@ -64,7 +68,8 @@ const WORDS = [
         "fluere → to flow"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/məˈlɪf.lu.əs/"
   },
   {
     "word": "serendipity",
@@ -74,7 +79,8 @@ const WORDS = [
     "roots": {
       "origin": "Coined by Horace Walpole in 1754, from the Persian fairy tale 'The Three Princes of Serendip' (an old name for Sri Lanka)."
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌsɛr.ənˈdɪp.ɪ.ti/"
   },
   {
     "word": "laconic",
@@ -84,7 +90,8 @@ const WORDS = [
     "roots": {
       "origin": "Greek 'Lakonikos', referring to the people of Laconia (Sparta), who were famous for pithy speech. When Philip II of Macedon threatened 'If I invade Laconia, I shall turn you out,' the Spartans replied with a single word: 'If.'"
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ləˈkɑn.ɪk/"
   },
   {
     "word": "ineffable",
@@ -99,7 +106,8 @@ const WORDS = [
         "ex + fari → out + to speak"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɪnˈɛf.ə.bəl/"
   },
   {
     "word": "sanguine",
@@ -112,7 +120,8 @@ const WORDS = [
         "sanguis → blood"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈsæŋ.ɡwɪn/"
   },
   {
     "word": "panacea",
@@ -126,7 +135,8 @@ const WORDS = [
         "akos → remedy"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌpæn.əˈsi.ə/"
   },
   {
     "word": "quixotic",
@@ -136,7 +146,8 @@ const WORDS = [
     "roots": {
       "origin": "From Don Quixote, the delusionally idealistic knight in Cervantes' 1605 novel."
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/kwɪkˈsɑt.ɪk/"
   },
   {
     "word": "aplomb",
@@ -150,7 +161,8 @@ const WORDS = [
         "plomb → lead (the metal), as in a plumb line — perfectly vertical, steady"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/əˈplɑm/"
   },
   {
     "word": "insouciant",
@@ -164,7 +176,8 @@ const WORDS = [
         "soucier → to care (from Latin sollicitare, to disturb)"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɪnˈsu.si.ənt/"
   },
   {
     "word": "verisimilitude",
@@ -178,7 +191,8 @@ const WORDS = [
         "similis → similar"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌvɛr.ɪ.sɪˈmɪl.ɪ.tjud/"
   },
   {
     "word": "vicissitude",
@@ -191,7 +205,8 @@ const WORDS = [
         "vicis → turn, change"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/vɪˈsɪs.ɪ.tjud/"
   },
   {
     "word": "obsequious",
@@ -205,7 +220,8 @@ const WORDS = [
         "sequi → to follow"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/əbˈsi.kwi.əs/"
   },
   {
     "word": "perfunctory",
@@ -219,7 +235,8 @@ const WORDS = [
         "fungi → to perform"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/pərˈfʌŋk.tər.i/"
   },
   {
     "word": "sycophant",
@@ -233,7 +250,8 @@ const WORDS = [
         "phainein → to show"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈsɪk.ə.fænt/"
   },
   {
     "word": "perspicacious",
@@ -247,7 +265,8 @@ const WORDS = [
         "specere → to look"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌpɜr.spɪˈkeɪ.ʃəs/"
   },
   {
     "word": "recalcitrant",
@@ -261,7 +280,8 @@ const WORDS = [
         "calcitrare → to kick (from calx, heel)"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/rɪˈkæl.sɪ.trənt/"
   },
   {
     "word": "defenestration",
@@ -275,7 +295,8 @@ const WORDS = [
         "fenestra → window"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/dɪˌfɛn.ɪˈstreɪ.ʃən/"
   },
   {
     "word": "sesquipedalian",
@@ -289,7 +310,8 @@ const WORDS = [
         "pes/pedis → foot"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌsɛs.kwɪ.pɪˈdeɪ.li.ən/"
   },
   {
     "word": "apricity",
@@ -302,7 +324,8 @@ const WORDS = [
         "apricus → sun-warmed, basking"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/əˈprɪs.ɪ.ti/"
   },
   {
     "word": "callipygian",
@@ -316,7 +339,8 @@ const WORDS = [
         "pyge → buttocks"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌkæl.ɪˈpɪdʒ.i.ən/"
   },
   {
     "word": "eigengrau",
@@ -330,7 +354,8 @@ const WORDS = [
         "grau → gray"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈaɪ.ɡən.ɡraʊ/"
   },
   {
     "word": "velleity",
@@ -343,7 +368,8 @@ const WORDS = [
         "velle → to wish (a weaker form of 'voluntas' — will)"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/vɛˈli.ɪ.ti/"
   },
   {
     "word": "logorrhea",
@@ -357,7 +383,8 @@ const WORDS = [
         "rhoia → flow (same root as 'diarrhea')"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌlɑɡ.əˈri.ə/"
   },
   {
     "word": "tmesis",
@@ -370,7 +397,8 @@ const WORDS = [
         "temnein → to cut"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/təˈmi.sɪs/"
   },
   {
     "word": "alexithymia",
@@ -385,7 +413,8 @@ const WORDS = [
         "thymos → emotion, spirit"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/əˌlɛk.sɪˈθɪm.i.ə/"
   },
   {
     "word": "hiraeth",
@@ -395,7 +424,8 @@ const WORDS = [
     "roots": {
       "origin": "Welsh — no direct English equivalent. One of the quintessential 'untranslatable' words."
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈhɪr.aɪθ/"
   },
   {
     "word": "autoschediasm",
@@ -409,7 +439,8 @@ const WORDS = [
         "schedios → near, offhand, improvised"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ɔˌtoʊˈskɛd.i.æz.əm/"
   },
   {
     "word": "apophenia",
@@ -423,7 +454,8 @@ const WORDS = [
         "phainein → to show, appear"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌæp.əˈfi.ni.ə/"
   },
   {
     "word": "palimpsest",
@@ -437,7 +469,8 @@ const WORDS = [
         "psestos → rubbed smooth (from psen, to rub)"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈpæl.ɪmp.sɛst/"
   },
   {
     "word": "susurrus",
@@ -447,7 +480,8 @@ const WORDS = [
     "roots": {
       "origin": "Latin 'susurrus' — a humming, muttering. An onomatopoeia: the word sounds like what it describes."
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/suˈsɜr.əs/"
   },
   {
     "word": "phosphene",
@@ -461,7 +495,8 @@ const WORDS = [
         "phainein → to show"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈfɑs.fin/"
   },
   {
     "word": "ultracrepidarian",
@@ -475,7 +510,8 @@ const WORDS = [
         "crepida → sandal, sole"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌʌl.trə.ˌkrɛp.ɪˈdɛr.i.ən/"
   },
   {
     "word": "parapraxis",
@@ -489,7 +525,8 @@ const WORDS = [
         "praxis → action, deed"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌpær.əˈpræk.sɪs/"
   },
   {
     "word": "syncretism",
@@ -503,7 +540,8 @@ const WORDS = [
         "Krete → Crete"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈsɪŋ.krɪ.tɪz.əm/"
   },
   {
     "word": "liminal",
@@ -516,7 +554,8 @@ const WORDS = [
         "limen → threshold, boundary"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈlɪm.ɪ.nəl/"
   },
   {
     "word": "cacoethes",
@@ -530,7 +569,8 @@ const WORDS = [
         "ethos → disposition, habit"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌkæk.oʊˈi.θiz/"
   },
   {
     "word": "ferrule",
@@ -540,7 +580,8 @@ const WORDS = [
     "roots": {
       "origin": "Latin 'viriola' (little bracelet). Spelling influenced by 'ferrum' (iron)."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈfɛr.əl/"
   },
   {
     "word": "aglet",
@@ -553,7 +594,8 @@ const WORDS = [
         "aiguille → needle (from Latin acus)"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈæɡ.lɪt/"
   },
   {
     "word": "obelus",
@@ -566,7 +608,8 @@ const WORDS = [
         "obelos → spit, pointed pillar"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈɑb.ɪ.ləs/"
   },
   {
     "word": "bruxism",
@@ -579,7 +622,8 @@ const WORDS = [
         "brychein → to gnash, grind"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈbrʌk.sɪz.əm/"
   },
   {
     "word": "zugzwang",
@@ -593,7 +637,8 @@ const WORDS = [
         "Zwang → compulsion, obligation"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈtsʊɡ.tsvæŋ/"
   },
   {
     "word": "proprioception",
@@ -607,7 +652,8 @@ const WORDS = [
         "capere → to take, grasp"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌproʊ.pri.oʊˈsɛp.ʃən/"
   },
   {
     "word": "lethologica",
@@ -621,7 +667,8 @@ const WORDS = [
         "logos → word"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌlɛθ.əˈlɑdʒ.ɪ.kə/"
   },
   {
     "word": "merism",
@@ -635,7 +682,8 @@ const WORDS = [
         "meros → part"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈmɛr.ɪz.əm/"
   },
   {
     "word": "tittle",
@@ -645,7 +693,8 @@ const WORDS = [
     "roots": {
       "origin": "Latin 'titulus' — title, superscription."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈtɪt.əl/"
   },
   {
     "word": "kenopsia",
@@ -659,7 +708,8 @@ const WORDS = [
         "opsis → sight, view (Greek)"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/kɛˈnɑp.si.ə/"
   },
   {
     "word": "widdershins",
@@ -673,7 +723,8 @@ const WORDS = [
         "sin → direction"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈwɪd.ər.ʃɪnz/"
   },
   {
     "word": "mamihlapinatapai",
@@ -683,7 +734,8 @@ const WORDS = [
     "roots": {
       "origin": "Yaghan language (Tierra del Fuego). Listed in Guinness Book of World Records as the 'most succinct word.'"
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌmɑ.mi.ˌlɑp.ɪ.ˈnɑt.ə.paɪ/"
   },
   {
     "word": "recrudescence",
@@ -697,7 +749,8 @@ const WORDS = [
         "crudescere → to become raw (from crudus — raw)"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌri.kruˈdɛs.əns/"
   },
   {
     "word": "colophon",
@@ -707,7 +760,8 @@ const WORDS = [
     "roots": {
       "origin": "Greek 'kolophon' — summit, finishing touch. From the ancient city of Colophon."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈkɑl.ə.fɑn/"
   },
   {
     "word": "shibboleth",
@@ -717,7 +771,8 @@ const WORDS = [
     "roots": {
       "origin": "Hebrew 'shibboleth' — ear of grain. From the Book of Judges: used to identify Ephraimites who couldn't pronounce 'sh.'"
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈʃɪb.ə.lɛθ/"
   },
   {
     "word": "antepenultimate",
@@ -732,7 +787,8 @@ const WORDS = [
         "ultimus → last"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌæn.ti.pɪˈnʌl.tɪ.mɪt/"
   },
   {
     "word": "scurryfunge",
@@ -742,7 +798,8 @@ const WORDS = [
     "roots": {
       "origin": "English dialectal (18th century). Likely a playful compound of 'scurry' and 'funge.'"
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈskɜr.i.fʌndʒ/"
   },
   {
     "word": "scripturient",
@@ -756,7 +813,8 @@ const WORDS = [
         "-urient → having desire for"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/skrɪpˈtjʊr.i.ənt/"
   },
   {
     "word": "abderian",
@@ -766,7 +824,8 @@ const WORDS = [
     "roots": {
       "origin": "From Abdera, an ancient Thracian city whose inhabitants were stereotyped as stupid and prone to silly laughter."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/æbˈdɪr.i.ən/"
   },
   {
     "word": "psithurism",
@@ -779,7 +838,8 @@ const WORDS = [
         "psithuros → whispering"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈsɪθ.jʊr.ɪz.əm/"
   },
   {
     "word": "abibliophobia",
@@ -794,7 +854,8 @@ const WORDS = [
         "phobia → fear"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌeɪ.ˌbɪb.li.oʊˈfoʊ.bi.ə/"
   },
   {
     "word": "xertz",
@@ -804,7 +865,8 @@ const WORDS = [
     "roots": {
       "origin": "Origin uncertain — possibly dialectal English. Gained currency through competitive Scrabble."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/zɜrts/"
   },
   {
     "word": "snollygoster",
@@ -814,7 +876,8 @@ const WORDS = [
     "roots": {
       "origin": "American English (19th century). Possibly from 'snallygaster,' a mythical creature from Maryland German immigrant folklore."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈsnɑl.i.ɡɑs.tər/"
   },
   {
     "word": "clinomania",
@@ -828,7 +891,8 @@ const WORDS = [
         "mania → madness, obsession"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌklaɪ.noʊˈmeɪ.ni.ə/"
   },
   {
     "word": "crepuscular",
@@ -841,7 +905,8 @@ const WORDS = [
         "crepusculum → twilight"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/krɪˈpʌs.kjʊ.lər/"
   },
   {
     "word": "plangent",
@@ -854,7 +919,8 @@ const WORDS = [
         "plangere → to beat the breast in grief"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈplæn.dʒənt/"
   },
   {
     "word": "saturnine",
@@ -867,7 +933,8 @@ const WORDS = [
         "Saturnus → Roman god of time and harvest"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈsæt.ər.naɪn/"
   },
   {
     "word": "mercurial",
@@ -880,7 +947,8 @@ const WORDS = [
         "Mercurius → Roman god of messengers and trade"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/mərˈkjʊr.i.əl/"
   },
   {
     "word": "ennui",
@@ -894,7 +962,8 @@ const WORDS = [
         "odium → hatred"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɑnˈwi/"
   },
   {
     "word": "languor",
@@ -907,7 +976,8 @@ const WORDS = [
         "languere → to be faint"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈlæŋ.ɡər/"
   },
   {
     "word": "specious",
@@ -921,7 +991,8 @@ const WORDS = [
         "osus → full of"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈspi.ʃəs/"
   },
   {
     "word": "didactic",
@@ -934,7 +1005,8 @@ const WORDS = [
         "didaskein → to teach"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/daɪˈdæk.tɪk/"
   },
   {
     "word": "tendentious",
@@ -947,7 +1019,8 @@ const WORDS = [
         "tendere → to stretch toward"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/tɛnˈdɛn.ʃəs/"
   },
   {
     "word": "diaphanous",
@@ -961,7 +1034,8 @@ const WORDS = [
         "phainein → to show"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/daɪˈæf.ə.nəs/"
   },
   {
     "word": "pellucid",
@@ -975,7 +1049,8 @@ const WORDS = [
         "lux/lucis → light"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/pɛˈlu.sɪd/"
   },
   {
     "word": "lachrymose",
@@ -988,7 +1063,8 @@ const WORDS = [
         "lacrima → tear"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈlæk.rɪ.moʊs/"
   },
   {
     "word": "perspicuous",
@@ -1002,7 +1078,8 @@ const WORDS = [
         "specere → to look"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/pərˈspɪk.ju.əs/"
   },
   {
     "word": "pulchritudinous",
@@ -1015,7 +1092,8 @@ const WORDS = [
         "pulcher → beautiful"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/pʌlˈkrɪt.ɪ.du.dɪ.nəs/"
   },
   {
     "word": "voluble",
@@ -1028,7 +1106,8 @@ const WORDS = [
         "volvere → to roll"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈvɑl.jʊ.bəl/"
   },
   {
     "word": "loquacious",
@@ -1041,7 +1120,8 @@ const WORDS = [
         "loqui → to speak"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/loʊˈkweɪ.ʃəs/"
   },
   {
     "word": "magniloquent",
@@ -1055,7 +1135,8 @@ const WORDS = [
         "loqui → to speak"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/mæɡˈnɪl.ə.kwənt/"
   },
   {
     "word": "sedulous",
@@ -1069,7 +1150,8 @@ const WORDS = [
         "dolus → trickery, guile"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈsɛdʒ.ʊ.ləs/"
   },
   {
     "word": "mendacious",
@@ -1082,7 +1164,8 @@ const WORDS = [
         "mendum → fault, defect"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/mɛnˈdeɪ.ʃəs/"
   },
   {
     "word": "fulgent",
@@ -1095,7 +1178,8 @@ const WORDS = [
         "fulgere → to shine, flash"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈfʌl.dʒənt/"
   },
   {
     "word": "tenebrous",
@@ -1108,7 +1192,8 @@ const WORDS = [
         "tenebrae → darkness, shadows"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈtɛn.ɪ.brəs/"
   },
   {
     "word": "melancholic",
@@ -1122,7 +1207,8 @@ const WORDS = [
         "khole → bile"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌmɛl.ənˈkɑl.ɪk/"
   },
   {
     "word": "sanguinary",
@@ -1135,7 +1221,8 @@ const WORDS = [
         "sanguis → blood"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈsæŋ.ɡwɪ.nɛr.i/"
   },
   {
     "word": "lugubrious",
@@ -1148,7 +1235,8 @@ const WORDS = [
         "lugere → to mourn"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/luˈɡu.bri.əs/"
   },
   {
     "word": "truculent",
@@ -1161,7 +1249,8 @@ const WORDS = [
         "trux → fierce, savage"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈtrʌk.jʊ.lənt/"
   },
   {
     "word": "contumacious",
@@ -1175,7 +1264,8 @@ const WORDS = [
         "tumere → to swell with pride"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌkɑn.tjʊˈmeɪ.ʃəs/"
   },
   {
     "word": "pusillanimous",
@@ -1189,7 +1279,8 @@ const WORDS = [
         "animus → spirit"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌpju.sɪˈlæn.ɪ.məs/"
   },
   {
     "word": "magnanimous",
@@ -1203,7 +1294,8 @@ const WORDS = [
         "animus → spirit"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/mæɡˈnæn.ɪ.məs/"
   },
   {
     "word": "querulous",
@@ -1216,7 +1308,8 @@ const WORDS = [
         "queri → to complain"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈkwɛr.ʊ.ləs/"
   },
   {
     "word": "diffident",
@@ -1230,7 +1323,8 @@ const WORDS = [
         "fidere → to trust"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈdɪf.ɪ.dənt/"
   },
   {
     "word": "ebullient",
@@ -1244,7 +1338,8 @@ const WORDS = [
         "bullire → to boil"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɪˈbʊl.jənt/"
   },
   {
     "word": "phlegmatic",
@@ -1257,7 +1352,8 @@ const WORDS = [
         "phlegma → phlegm, inflammation"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/flɛɡˈmæt.ɪk/"
   },
   {
     "word": "choleric",
@@ -1270,7 +1366,8 @@ const WORDS = [
         "khole → bile"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈkɑl.ər.ɪk/"
   },
   {
     "word": "inveterate",
@@ -1284,7 +1381,8 @@ const WORDS = [
         "vetus → old"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɪnˈvɛt.ər.ɪt/"
   },
   {
     "word": "inimical",
@@ -1298,7 +1396,8 @@ const WORDS = [
         "amicus → friend"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɪˈnɪm.ɪ.kəl/"
   },
   {
     "word": "inimitable",
@@ -1312,7 +1411,8 @@ const WORDS = [
         "imitari → to imitate"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɪˈnɪm.ɪ.tə.bəl/"
   },
   {
     "word": "meliorist",
@@ -1325,7 +1425,8 @@ const WORDS = [
         "melior → better"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈmi.li.ər.ɪst/"
   },
   {
     "word": "apocryphal",
@@ -1339,7 +1440,8 @@ const WORDS = [
         "kryptein → to hide"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/əˈpɑk.rɪ.fəl/"
   },
   {
     "word": "hagiography",
@@ -1353,7 +1455,8 @@ const WORDS = [
         "graphein → to write"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌhæɡ.iˈɑɡ.rə.fi/"
   },
   {
     "word": "solipsism",
@@ -1367,7 +1470,8 @@ const WORDS = [
         "ipse → self"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈsɑl.ɪp.sɪz.əm/"
   },
   {
     "word": "antipodean",
@@ -1381,7 +1485,8 @@ const WORDS = [
         "pous → foot"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌæn.tɪˈpoʊ.di.ən/"
   },
   {
     "word": "ossify",
@@ -1395,7 +1500,8 @@ const WORDS = [
         "facere → to make"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈɑs.ɪ.faɪ/"
   },
   {
     "word": "vitiate",
@@ -1408,7 +1514,8 @@ const WORDS = [
         "vitium → fault, defect"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈvɪʃ.i.eɪt/"
   },
   {
     "word": "evince",
@@ -1422,7 +1529,8 @@ const WORDS = [
         "vincere → to conquer"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɪˈvɪns/"
   },
   {
     "word": "inure",
@@ -1435,7 +1543,8 @@ const WORDS = [
         "in ure → in use, in practice"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɪˈnjʊr/"
   },
   {
     "word": "fulminate",
@@ -1448,7 +1557,8 @@ const WORDS = [
         "fulmen → lightning bolt"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈfʌl.mɪ.neɪt/"
   },
   {
     "word": "excoriate",
@@ -1462,7 +1572,8 @@ const WORDS = [
         "corium → skin, hide"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɛkˈskɔr.i.eɪt/"
   },
   {
     "word": "obfuscate",
@@ -1476,7 +1587,8 @@ const WORDS = [
         "fuscus → dark"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈɑb.fʌ.skeɪt/"
   },
   {
     "word": "dissemble",
@@ -1490,7 +1602,8 @@ const WORDS = [
         "simulare → to simulate, pretend"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/dɪˈsɛm.bəl/"
   },
   {
     "word": "gainsay",
@@ -1504,7 +1617,8 @@ const WORDS = [
         "secgan → to say"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈɡeɪn.seɪ/"
   },
   {
     "word": "impugn",
@@ -1518,7 +1632,8 @@ const WORDS = [
         "pugnare → to fight"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɪmˈpjun/"
   },
   {
     "word": "enjoin",
@@ -1532,7 +1647,8 @@ const WORDS = [
         "jungere → to join"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɛnˈdʒɔɪn/"
   },
   {
     "word": "palliate",
@@ -1545,7 +1661,8 @@ const WORDS = [
         "pallium → cloak, covering"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈpæl.i.eɪt/"
   },
   {
     "word": "abscond",
@@ -1559,7 +1676,8 @@ const WORDS = [
         "condere → to hide"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/æbˈskɑnd/"
   },
   {
     "word": "expatiate",
@@ -1573,7 +1691,8 @@ const WORDS = [
         "spatium → space, room"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɛkˈspeɪ.ʃi.eɪt/"
   },
   {
     "word": "umbrage",
@@ -1586,7 +1705,8 @@ const WORDS = [
         "umbra → shadow, shade"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈʌm.brɪdʒ/"
   },
   {
     "word": "turpitude",
@@ -1599,7 +1719,8 @@ const WORDS = [
         "turpis → base, ugly, shameful"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈtɜr.pɪ.tjud/"
   },
   {
     "word": "hubris",
@@ -1612,7 +1733,8 @@ const WORDS = [
         "hybris → insolence, outrage"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈhju.brɪs/"
   },
   {
     "word": "sophistry",
@@ -1625,7 +1747,8 @@ const WORDS = [
         "sophos → wise"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈsɑf.ɪ.stri/"
   },
   {
     "word": "equivocation",
@@ -1639,7 +1762,8 @@ const WORDS = [
         "vox → voice"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɪˌkwɪv.əˈkeɪ.ʃən/"
   },
   {
     "word": "apostasy",
@@ -1653,7 +1777,8 @@ const WORDS = [
         "histanai → to stand"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/əˈpɑs.tə.si/"
   },
   {
     "word": "hegemony",
@@ -1666,7 +1791,8 @@ const WORDS = [
         "hegeisthai → to lead, to guide"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/hɪˈdʒɛm.ə.ni/"
   },
   {
     "word": "pathos",
@@ -1679,7 +1805,8 @@ const WORDS = [
         "paschein → to suffer, to experience"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈpeɪ.θɑs/"
   },
   {
     "word": "bathos",
@@ -1692,7 +1819,8 @@ const WORDS = [
         "bathys → deep"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈbeɪ.θɑs/"
   },
   {
     "word": "catharsis",
@@ -1705,7 +1833,8 @@ const WORDS = [
         "katharos → pure, clean"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/kəˈθɑr.sɪs/"
   },
   {
     "word": "apothegm",
@@ -1719,7 +1848,8 @@ const WORDS = [
         "phtheggesthai → to speak out plainly"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈæp.ə.θɛm/"
   },
   {
     "word": "kenning",
@@ -1732,7 +1862,8 @@ const WORDS = [
         "kenna → to know, to name"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈkɛn.ɪŋ/"
   },
   {
     "word": "chiasmus",
@@ -1745,7 +1876,8 @@ const WORDS = [
         "khi → the letter chi (X)"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/kaɪˈæz.məs/"
   },
   {
     "word": "anodyne",
@@ -1759,7 +1891,8 @@ const WORDS = [
         "odyne → pain"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈæn.ə.daɪn/"
   },
   {
     "word": "exigent",
@@ -1773,7 +1906,8 @@ const WORDS = [
         "agere → to drive, to act"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈɛk.sɪ.dʒənt/"
   },
   {
     "word": "parlous",
@@ -1786,7 +1920,8 @@ const WORDS = [
         "periculum → danger, trial"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈpɑr.ləs/"
   },
   {
     "word": "penurious",
@@ -1799,7 +1934,8 @@ const WORDS = [
         "penuria → want, scarcity"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/pɪˈnjʊr.i.əs/"
   },
   {
     "word": "nugatory",
@@ -1812,7 +1948,8 @@ const WORDS = [
         "nugae → trifles, nonsense"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈnu.ɡə.tɔr.i/"
   },
   {
     "word": "insipid",
@@ -1826,7 +1963,8 @@ const WORDS = [
         "sapere → to taste, to be wise"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɪnˈsɪp.ɪd/"
   },
   {
     "word": "vapid",
@@ -1839,7 +1977,8 @@ const WORDS = [
         "vapor → steam, that which has evaporated away"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈvæp.ɪd/"
   },
   {
     "word": "anamnesis",
@@ -1853,7 +1992,8 @@ const WORDS = [
         "mimneskesthai → to remember"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌæn.æmˈni.sɪs/"
   },
   {
     "word": "venal",
@@ -1866,7 +2006,8 @@ const WORDS = [
         "venum → sale, goods for sale"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈvi.nəl/"
   },
   {
     "word": "insolent",
@@ -1880,7 +2021,8 @@ const WORDS = [
         "solere → to be accustomed to"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈɪn.sə.lənt/"
   },
   {
     "word": "pernicious",
@@ -1894,7 +2036,8 @@ const WORDS = [
         "nex → violent death"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/pərˈnɪʃ.əs/"
   },
   {
     "word": "abstruse",
@@ -1908,7 +2051,8 @@ const WORDS = [
         "trudere → to push"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/æbˈstrus/"
   },
   {
     "word": "recondite",
@@ -1922,7 +2066,8 @@ const WORDS = [
         "condere → to put away, to store"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈrɛk.ən.daɪt/"
   },
   {
     "word": "arcane",
@@ -1935,7 +2080,8 @@ const WORDS = [
         "arca → chest, box — something locked away"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɑrˈkeɪn/"
   },
   {
     "word": "meretricious",
@@ -1948,7 +2094,8 @@ const WORDS = [
         "merere → to earn"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌmɛr.ɪˈtrɪʃ.əs/"
   },
   {
     "word": "execrable",
@@ -1962,7 +2109,8 @@ const WORDS = [
         "sacer → sacred, accursed"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈɛk.sɪ.krə.bəl/"
   },
   {
     "word": "redolent",
@@ -1976,7 +2124,8 @@ const WORDS = [
         "olere → to smell"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈrɛd.ə.lənt/"
   },
   {
     "word": "sartorial",
@@ -1989,7 +2138,8 @@ const WORDS = [
         "sarcire → to patch, to mend"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/sɑrˈtɔr.i.əl/"
   },
   {
     "word": "fugacious",
@@ -2002,7 +2152,8 @@ const WORDS = [
         "fugere → to flee"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/fjuˈɡeɪ.ʃəs/"
   },
   {
     "word": "moribund",
@@ -2015,7 +2166,8 @@ const WORDS = [
         "mori → to die"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈmɔr.ɪ.bʌnd/"
   },
   {
     "word": "nascent",
@@ -2028,7 +2180,8 @@ const WORDS = [
         "nasci → to be born"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈneɪ.sənt/"
   },
   {
     "word": "inchoate",
@@ -2042,7 +2195,8 @@ const WORDS = [
         "cohum → yoke strap — just beginning to plow"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɪnˈkoʊ.ɪt/"
   },
   {
     "word": "fecund",
@@ -2055,7 +2209,8 @@ const WORDS = [
         "fecundus → fruitful, productive"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈfɛk.ənd/"
   },
   {
     "word": "propitious",
@@ -2069,7 +2224,8 @@ const WORDS = [
         "petere → to seek, to fly toward"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/prəˈpɪʃ.əs/"
   },
   {
     "word": "inauspicious",
@@ -2084,7 +2240,8 @@ const WORDS = [
         "specere → to look"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌɪn.ɔˈspɪʃ.əs/"
   },
   {
     "word": "zealot",
@@ -2097,7 +2254,8 @@ const WORDS = [
         "zelos → zeal, fervor"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈzɛl.ət/"
   },
   {
     "word": "sycophancy",
@@ -2111,7 +2269,8 @@ const WORDS = [
         "phainein → to show"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈsɪk.ə.fən.si/"
   },
   {
     "word": "temerity",
@@ -2124,7 +2283,8 @@ const WORDS = [
         "temere → rashly, blindly"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/təˈmɛr.ɪ.ti/"
   },
   {
     "word": "intrepid",
@@ -2138,7 +2298,8 @@ const WORDS = [
         "trepidus → alarmed, trembling"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɪnˈtrɛp.ɪd/"
   },
   {
     "word": "impecunious",
@@ -2152,7 +2313,8 @@ const WORDS = [
         "pecunia → money, cattle-wealth"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌɪm.pɪˈkju.ni.əs/"
   },
   {
     "word": "munificent",
@@ -2166,7 +2328,8 @@ const WORDS = [
         "facere → to make"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/mjuˈnɪf.ɪ.sənt/"
   },
   {
     "word": "parsimonious",
@@ -2179,7 +2342,8 @@ const WORDS = [
         "parcere → to spare, to be economical"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌpɑr.sɪˈmoʊ.ni.əs/"
   },
   {
     "word": "cogent",
@@ -2193,7 +2357,8 @@ const WORDS = [
         "agere → to drive"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈkoʊ.dʒənt/"
   },
   {
     "word": "probity",
@@ -2206,7 +2371,8 @@ const WORDS = [
         "probus → good, upright"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈproʊ.bɪ.ti/"
   },
   {
     "word": "cupidity",
@@ -2219,7 +2385,8 @@ const WORDS = [
         "cupere → to desire, to long for"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/kjuˈpɪd.ɪ.ti/"
   },
   {
     "word": "felicity",
@@ -2232,7 +2399,8 @@ const WORDS = [
         "felix → happy, fruitful"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/fəˈlɪs.ɪ.ti/"
   },
   {
     "word": "cacophony",
@@ -2246,7 +2414,8 @@ const WORDS = [
         "phone → sound, voice"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/kəˈkɒf.ə.ni/"
   },
   {
     "word": "euphony",
@@ -2260,7 +2429,8 @@ const WORDS = [
         "phone → sound, voice"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈju.fə.ni/"
   },
   {
     "word": "banal",
@@ -2273,7 +2443,8 @@ const WORDS = [
         "ban → feudal lord's proclamation — available to all, thus ordinary"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/bəˈnɑl/"
   },
   {
     "word": "trite",
@@ -2286,7 +2457,8 @@ const WORDS = [
         "terere → to rub, to wear away"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/traɪt/"
   },
   {
     "word": "furtive",
@@ -2299,7 +2471,8 @@ const WORDS = [
         "fur → thief"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈfɜr.tɪv/"
   },
   {
     "word": "limpid",
@@ -2312,7 +2485,8 @@ const WORDS = [
         "limpidus → clear, transparent"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈlɪm.pɪd/"
   },
   {
     "word": "lassitude",
@@ -2325,7 +2499,8 @@ const WORDS = [
         "lassus → weary, tired"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈlæs.ɪ.tuːd/"
   },
   {
     "word": "solicitude",
@@ -2339,7 +2514,8 @@ const WORDS = [
         "ciere → to move, to stir"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/səˈlɪs.ɪ.tuːd/"
   },
   {
     "word": "propinquity",
@@ -2352,7 +2528,8 @@ const WORDS = [
         "prope → near"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/prəˈpɪŋ.kwɪ.ti/"
   },
   {
     "word": "verdant",
@@ -2365,7 +2542,8 @@ const WORDS = [
         "viridis → green, fresh"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈvɜr.dənt/"
   },
   {
     "word": "perspicacity",
@@ -2379,7 +2557,8 @@ const WORDS = [
         "specere → to look, to see"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌpɜr.spɪˈkæs.ɪ.ti/"
   },
   {
     "word": "compunction",
@@ -2393,7 +2572,8 @@ const WORDS = [
         "pungere → to prick, to sting"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/kəmˈpʌŋk.ʃən/"
   },
   {
     "word": "desuetude",
@@ -2407,7 +2587,8 @@ const WORDS = [
         "suescere → to be accustomed"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈdɛs.wɪ.tuːd/"
   },
   {
     "word": "incandescent",
@@ -2421,7 +2602,8 @@ const WORDS = [
         "candere → to shine, to glow"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌɪn.kænˈdɛs.ənt/"
   },
   {
     "word": "denouement",
@@ -2435,7 +2617,8 @@ const WORDS = [
         "nouer → to knot"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌdeɪ.nuˈmɑ̃/"
   },
   {
     "word": "risible",
@@ -2448,7 +2631,8 @@ const WORDS = [
         "ridere → to laugh"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈrɪz.ɪ.bəl/"
   },
   {
     "word": "fatuous",
@@ -2461,7 +2645,8 @@ const WORDS = [
         "fatuus → foolish, insipid"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈfætʃ.u.əs/"
   },
   {
     "word": "otiose",
@@ -2474,7 +2659,8 @@ const WORDS = [
         "otium → leisure, ease"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈoʊ.ʃi.oʊs/"
   },
   {
     "word": "maudlin",
@@ -2487,7 +2673,8 @@ const WORDS = [
         "Maudlin → Mary Magdalene, the weeping figure"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈmɔd.lɪn/"
   },
   {
     "word": "crepitate",
@@ -2500,7 +2687,8 @@ const WORDS = [
         "crepere → to rattle, to crack"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈkrɛp.ɪ.teɪt/"
   },
   {
     "word": "attenuate",
@@ -2514,7 +2702,8 @@ const WORDS = [
         "tenuis → thin, fine"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/əˈtɛn.ju.eɪt/"
   },
   {
     "word": "enervate",
@@ -2528,7 +2717,8 @@ const WORDS = [
         "nervus → sinew, nerve, strength"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈɛn.ər.veɪt/"
   },
   {
     "word": "proscribe",
@@ -2542,7 +2732,8 @@ const WORDS = [
         "scribere → to write"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/proʊˈskraɪb/"
   },
   {
     "word": "prescient",
@@ -2556,7 +2747,8 @@ const WORDS = [
         "scire → to know"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈprɛʃ.ənt/"
   },
   {
     "word": "harbinger",
@@ -2569,7 +2761,8 @@ const WORDS = [
         "herberge → lodging, shelter"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈhɑr.bɪn.dʒər/"
   },
   {
     "word": "portent",
@@ -2583,7 +2776,8 @@ const WORDS = [
         "tendere → to stretch"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈpɔr.tɛnt/"
   },
   {
     "word": "celerity",
@@ -2596,7 +2790,8 @@ const WORDS = [
         "celer → swift"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/səˈlɛr.ɪ.ti/"
   },
   {
     "word": "asperity",
@@ -2609,7 +2804,8 @@ const WORDS = [
         "asper → rough, harsh"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/æˈspɛr.ɪ.ti/"
   },
   {
     "word": "alacrity",
@@ -2622,7 +2818,8 @@ const WORDS = [
         "alacer → lively, brisk, eager"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/əˈlæk.rɪ.ti/"
   },
   {
     "word": "recidivism",
@@ -2636,7 +2833,8 @@ const WORDS = [
         "cadere → to fall"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/rɪˈsɪd.ɪ.vɪz.əm/"
   },
   {
     "word": "verity",
@@ -2649,7 +2847,8 @@ const WORDS = [
         "verus → true"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈvɛr.ɪ.ti/"
   },
   {
     "word": "tractable",
@@ -2662,7 +2861,8 @@ const WORDS = [
         "trahere → to draw, to handle"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈtræk.tə.bəl/"
   },
   {
     "word": "emollient",
@@ -2676,7 +2876,8 @@ const WORDS = [
         "mollis → soft"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɪˈmɒl.jənt/"
   },
   {
     "word": "ineluctable",
@@ -2691,7 +2892,8 @@ const WORDS = [
         "luctari → to struggle, to wrestle"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌɪn.ɪˈlʌk.tə.bəl/"
   },
   {
     "word": "numinous",
@@ -2704,7 +2906,8 @@ const WORDS = [
         "numen → divine will, the nod of a god"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈnjuː.mɪ.nəs/"
   },
   {
     "word": "penumbra",
@@ -2718,7 +2921,8 @@ const WORDS = [
         "umbra → shadow"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/pɪˈnʌm.brə/"
   },
   {
     "word": "hypnagogic",
@@ -2732,7 +2936,8 @@ const WORDS = [
         "agein → to lead"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌhɪp.nəˈɡɒdʒ.ɪk/"
   },
   {
     "word": "simulacrum",
@@ -2745,7 +2950,8 @@ const WORDS = [
         "simulare → to make similar, to pretend"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌsɪm.jəˈleɪ.krəm/"
   },
   {
     "word": "fugue",
@@ -2758,7 +2964,8 @@ const WORDS = [
         "fugere → to flee"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/fjuːɡ/"
   },
   {
     "word": "apotheosis",
@@ -2772,7 +2979,8 @@ const WORDS = [
         "theos → god"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/əˌpɒθ.iˈoʊ.sɪs/"
   },
   {
     "word": "coda",
@@ -2785,7 +2993,8 @@ const WORDS = [
         "cauda → tail"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈkoʊ.də/"
   },
   {
     "word": "lacuna",
@@ -2798,7 +3007,8 @@ const WORDS = [
         "lacus → lake, hollow"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ləˈkjuː.nə/"
   },
   {
     "word": "concatenation",
@@ -2812,7 +3022,8 @@ const WORDS = [
         "catena → chain"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/kɒnˌkæt.əˈneɪ.ʃən/"
   },
   {
     "word": "susurration",
@@ -2825,7 +3036,8 @@ const WORDS = [
         "susurrare → to hum, to whisper (imitative)"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌsuː.səˈreɪ.ʃən/"
   },
   {
     "word": "valediction",
@@ -2839,7 +3051,8 @@ const WORDS = [
         "dicere → to say"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌvæl.ɪˈdɪk.ʃən/"
   },
   {
     "word": "inefficacious",
@@ -2853,7 +3066,8 @@ const WORDS = [
         "efficere → to bring about, to accomplish"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌɪn.ɛf.ɪˈkeɪ.ʃəs/"
   },
   {
     "word": "sedulity",
@@ -2866,7 +3080,8 @@ const WORDS = [
         "sedulo → without deception, zealously"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/sɪˈdjuː.lɪ.ti/"
   },
   {
     "word": "sanguinity",
@@ -2879,7 +3094,8 @@ const WORDS = [
         "sanguis → blood"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/sæŋˈɡwɪn.ɪ.ti/"
   },
   {
     "word": "pellucidity",
@@ -2893,7 +3109,8 @@ const WORDS = [
         "lucere → to shine"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌpɛl.juˈsɪd.ɪ.ti/"
   },
   {
     "word": "gloaming",
@@ -2907,7 +3124,8 @@ const WORDS = [
         "-ing → noun suffix indicating a period or process"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈɡloʊ.mɪŋ/"
   },
   {
     "word": "caliginous",
@@ -2921,7 +3139,8 @@ const WORDS = [
         "-ous → full of"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/kəˈlɪdʒ.ɪ.nəs/"
   },
   {
     "word": "pluvial",
@@ -2935,7 +3154,8 @@ const WORDS = [
         "-al → relating to"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈpluː.vi.əl/"
   },
   {
     "word": "virga",
@@ -2948,7 +3168,8 @@ const WORDS = [
         "virga → rod/streak"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈvɜr.ɡə/"
   },
   {
     "word": "lenticular",
@@ -2962,7 +3183,8 @@ const WORDS = [
         "-icular → resembling or relating to"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/lɛnˈtɪk.jə.lər/"
   },
   {
     "word": "zephyr",
@@ -2975,7 +3197,8 @@ const WORDS = [
         "Zephyros → west wind god"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈzɛf.ər/"
   },
   {
     "word": "foehn",
@@ -2988,7 +3211,8 @@ const WORDS = [
         "Favonius → favorable/west wind"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/feɪn/"
   },
   {
     "word": "flocculent",
@@ -3002,7 +3226,8 @@ const WORDS = [
         "-ulent → full of or resembling"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈflɒk.jə.lənt/"
   },
   {
     "word": "diurnal",
@@ -3017,7 +3242,8 @@ const WORDS = [
         "-al → relating to"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/daɪˈɜr.nəl/"
   },
   {
     "word": "sibilant",
@@ -3031,7 +3257,8 @@ const WORDS = [
         "-ant → doing or being"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈsɪb.ɪ.lənt/"
   },
   {
     "word": "stentorian",
@@ -3044,7 +3271,8 @@ const WORDS = [
         "Stentor → legendary loud-voiced herald"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/stɛnˈtɔr.i.ən/"
   },
   {
     "word": "sonorous",
@@ -3058,7 +3286,8 @@ const WORDS = [
         "-ous → full of"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈsɒn.ər.əs/"
   },
   {
     "word": "dulcet",
@@ -3071,7 +3300,8 @@ const WORDS = [
         "dulcis → sweet"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈdʌl.sɪt/"
   },
   {
     "word": "ululation",
@@ -3085,7 +3315,8 @@ const WORDS = [
         "-tion → act or result"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌʌl.jəˈleɪ.ʃən/"
   },
   {
     "word": "melisma",
@@ -3099,7 +3330,8 @@ const WORDS = [
         "-isma → result or product of"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/məˈlɪz.mə/"
   },
   {
     "word": "cacophonous",
@@ -3114,7 +3346,8 @@ const WORDS = [
         "-ous → full of"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/kəˈkɒf.ə.nəs/"
   },
   {
     "word": "evanescent",
@@ -3129,7 +3362,8 @@ const WORDS = [
         "-ent → being or doing"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌɛv.əˈnɛs.ənt/"
   },
   {
     "word": "sempiternal",
@@ -3144,7 +3378,8 @@ const WORDS = [
         "-al → relating to"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌsɛm.pɪˈtɜr.nəl/"
   },
   {
     "word": "immemorial",
@@ -3159,7 +3394,8 @@ const WORDS = [
         "-al → relating to"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌɪm.əˈmɔr.i.əl/"
   },
   {
     "word": "dilapidated",
@@ -3174,7 +3410,8 @@ const WORDS = [
         "-ated → made or caused to be"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/dɪˈlæp.ɪ.deɪ.tɪd/"
   },
   {
     "word": "senescent",
@@ -3189,7 +3426,8 @@ const WORDS = [
         "-ent → being or doing"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/sɪˈnɛs.ənt/"
   },
   {
     "word": "perambulate",
@@ -3204,7 +3442,8 @@ const WORDS = [
         "-ate → to do"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/pərˈæm.bjə.leɪt/"
   },
   {
     "word": "genuflect",
@@ -3218,7 +3457,8 @@ const WORDS = [
         "flectere → to bend"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈdʒɛn.jə.flɛkt/"
   },
   {
     "word": "lope",
@@ -3231,7 +3471,8 @@ const WORDS = [
         "hlaupa → to leap/run"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/loʊp/"
   },
   {
     "word": "sashay",
@@ -3244,7 +3485,8 @@ const WORDS = [
         "chassé → to chase/glide (dance term)"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/sæˈʃeɪ/"
   },
   {
     "word": "sidle",
@@ -3258,7 +3500,8 @@ const WORDS = [
         "-ling → in the manner of"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈsaɪ.dəl/"
   },
   {
     "word": "meander",
@@ -3271,7 +3514,8 @@ const WORDS = [
         "Maiandros → winding river in Asia Minor"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/miˈæn.dər/"
   },
   {
     "word": "gesticulate",
@@ -3285,7 +3529,8 @@ const WORDS = [
         "-culate → to perform or do repeatedly"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/dʒɛˈstɪk.jə.leɪt/"
   },
   {
     "word": "genuflection",
@@ -3300,7 +3545,8 @@ const WORDS = [
         "-ion → act or result"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌdʒɛn.jəˈflɛk.ʃən/"
   },
   {
     "word": "lollop",
@@ -3314,7 +3560,8 @@ const WORDS = [
         "-op → frequentative suffix"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈlɒl.əp/"
   },
   {
     "word": "amble",
@@ -3327,7 +3574,8 @@ const WORDS = [
         "ambulare → to walk"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈæm.bəl/"
   },
   {
     "word": "undulate",
@@ -3341,7 +3589,8 @@ const WORDS = [
         "-ulate → to cause or perform"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈʌn.djə.leɪt/"
   },
   {
     "word": "oscillate",
@@ -3355,7 +3604,8 @@ const WORDS = [
         "-ate → to do"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈɒs.ɪ.leɪt/"
   },
   {
     "word": "coruscate",
@@ -3369,7 +3619,8 @@ const WORDS = [
         "-ate → to do"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈkɔr.ə.skeɪt/"
   },
   {
     "word": "scintillate",
@@ -3383,7 +3634,8 @@ const WORDS = [
         "-ate → to do"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈsɪn.tɪ.leɪt/"
   },
   {
     "word": "toothsome",
@@ -3397,7 +3649,8 @@ const WORDS = [
         "-some → characterized by"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈtuːθ.səm/"
   },
   {
     "word": "unctuous",
@@ -3411,7 +3664,8 @@ const WORDS = [
         "-uous → full of or characterized by"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈʌŋk.tʃu.əs/"
   },
   {
     "word": "piquant",
@@ -3425,7 +3679,8 @@ const WORDS = [
         "-ant → doing or being"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈpiː.kənt/"
   },
   {
     "word": "astringent",
@@ -3440,7 +3695,8 @@ const WORDS = [
         "-ent → being or doing"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/əˈstrɪn.dʒənt/"
   },
   {
     "word": "umami",
@@ -3454,7 +3710,8 @@ const WORDS = [
         "mi → taste"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/uːˈmɑː.mi/"
   },
   {
     "word": "oleaginous",
@@ -3468,7 +3725,8 @@ const WORDS = [
         "-ginous → of the nature of"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌoʊ.liˈædʒ.ɪ.nəs/"
   },
   {
     "word": "acrid",
@@ -3482,7 +3740,8 @@ const WORDS = [
         "-id → having a quality of"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈæk.rɪd/"
   },
   {
     "word": "sapid",
@@ -3496,7 +3755,8 @@ const WORDS = [
         "-id → having a quality of"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈsæp.ɪd/"
   },
   {
     "word": "viand",
@@ -3510,7 +3770,8 @@ const WORDS = [
         "-anda → things necessary for"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈvaɪ.ənd/"
   },
   {
     "word": "collation",
@@ -3525,7 +3786,8 @@ const WORDS = [
         "-tion → act or result"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/kəˈleɪ.ʃən/"
   },
   {
     "word": "deglutition",
@@ -3540,7 +3802,8 @@ const WORDS = [
         "-tion → act or result"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌdiː.ɡluˈtɪʃ.ən/"
   },
   {
     "word": "rectitude",
@@ -3554,7 +3817,8 @@ const WORDS = [
         "-tudo → state or quality of"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈrɛk.tɪ.tuːd/"
   },
   {
     "word": "iniquity",
@@ -3569,7 +3833,8 @@ const WORDS = [
         "-ity → state or quality of"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɪˈnɪk.wɪ.ti/"
   },
   {
     "word": "impunity",
@@ -3584,7 +3849,8 @@ const WORDS = [
         "-ity → state or quality of"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɪmˈpjuː.nɪ.ti/"
   },
   {
     "word": "contrite",
@@ -3599,7 +3865,8 @@ const WORDS = [
         "-ite → state of being"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈkɒn.traɪt/"
   },
   {
     "word": "absolution",
@@ -3614,7 +3881,8 @@ const WORDS = [
         "-tion → act or result"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌæb.səˈluː.ʃən/"
   },
   {
     "word": "malfeasance",
@@ -3629,7 +3897,8 @@ const WORDS = [
         "-ance → act or quality of"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/mælˈfiː.zəns/"
   },
   {
     "word": "comity",
@@ -3643,7 +3912,8 @@ const WORDS = [
         "-ity → state or quality of"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈkɒm.ɪ.ti/"
   },
   {
     "word": "amity",
@@ -3658,7 +3928,8 @@ const WORDS = [
         "-ity → state or quality of"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈæm.ɪ.ti/"
   },
   {
     "word": "rapprochement",
@@ -3673,7 +3944,8 @@ const WORDS = [
         "-ment → result or state"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌræp.roʊʃˈmɑ̃/"
   },
   {
     "word": "concord",
@@ -3688,7 +3960,8 @@ const WORDS = [
         "-ia → state or quality"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈkɒŋ.kɔrd/"
   },
   {
     "word": "schism",
@@ -3702,7 +3975,8 @@ const WORDS = [
         "-ma → result of an action"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈskɪz.əm/"
   },
   {
     "word": "fractious",
@@ -3716,7 +3990,8 @@ const WORDS = [
         "-ious → full of or characterized by"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈfræk.ʃəs/"
   },
   {
     "word": "acrimony",
@@ -3730,7 +4005,8 @@ const WORDS = [
         "-monia → quality or condition"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈæk.rɪ.moʊ.ni/"
   },
   {
     "word": "opprobrium",
@@ -3744,7 +4020,8 @@ const WORDS = [
         "probrum → shameful deed"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/əˈproʊ.bri.əm/"
   },
   {
     "word": "obloquy",
@@ -3759,7 +4036,8 @@ const WORDS = [
         "-y → state or quality"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈɒb.lə.kwi/"
   },
   {
     "word": "anathema",
@@ -3774,7 +4052,8 @@ const WORDS = [
         "-ema → result of an action"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/əˈnæθ.ɪ.mə/"
   },
   {
     "word": "calumny",
@@ -3788,7 +4067,8 @@ const WORDS = [
         "-mnia → act or result"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈkæl.əm.ni/"
   },
   {
     "word": "ignominy",
@@ -3803,7 +4083,8 @@ const WORDS = [
         "-ia → state or quality"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈɪɡ.nə.mɪ.ni/"
   },
   {
     "word": "clemency",
@@ -3817,7 +4098,8 @@ const WORDS = [
         "-ia → state or quality"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈklɛm.ən.si/"
   },
   {
     "word": "forbearance",
@@ -3832,7 +4114,8 @@ const WORDS = [
         "-ance → state or quality"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/fɔrˈbɛr.əns/"
   },
   {
     "word": "indemnity",
@@ -3847,7 +4130,8 @@ const WORDS = [
         "-ity → state or quality of"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɪnˈdɛm.nɪ.ti/"
   },
   {
     "word": "restitution",
@@ -3862,7 +4146,8 @@ const WORDS = [
         "-tion → act or result"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌrɛs.tɪˈtuː.ʃən/"
   },
   {
     "word": "exculpate",
@@ -3877,7 +4162,8 @@ const WORDS = [
         "-ate → to do"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈɛks.kʌl.peɪt/"
   },
   {
     "word": "inculpate",
@@ -3892,7 +4178,8 @@ const WORDS = [
         "-ate → to do"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈɪn.kʌl.peɪt/"
   },
   {
     "word": "sylvan",
@@ -3906,7 +4193,8 @@ const WORDS = [
         "-an → relating to or belonging to"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈsɪl.vən/"
   },
   {
     "word": "riparian",
@@ -3920,7 +4208,8 @@ const WORDS = [
         "-arian → relating to"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/rɪˈpɛr.i.ən/"
   },
   {
     "word": "littoral",
@@ -3934,7 +4223,8 @@ const WORDS = [
         "-al → relating to"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈlɪt.ər.əl/"
   },
   {
     "word": "lacustrine",
@@ -3948,7 +4238,8 @@ const WORDS = [
         "-trine → relating to"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ləˈkʌs.trɪn/"
   },
   {
     "word": "palustrine",
@@ -3962,7 +4253,8 @@ const WORDS = [
         "-trine → relating to"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/pəˈlʌs.trɪn/"
   },
   {
     "word": "viridian",
@@ -3976,7 +4268,8 @@ const WORDS = [
         "-ian → relating to or characterized by"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/vɪˈrɪd.i.ən/"
   },
   {
     "word": "cerulean",
@@ -3990,7 +4283,8 @@ const WORDS = [
         "-ean → resembling or of the nature of"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/səˈruː.li.ən/"
   },
   {
     "word": "aureate",
@@ -4004,7 +4298,8 @@ const WORDS = [
         "-ate → having the quality of"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈɔr.i.ɪt/"
   },
   {
     "word": "sanguineous",
@@ -4018,7 +4313,8 @@ const WORDS = [
         "-eous → full of or resembling"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/sæŋˈɡwɪn.i.əs/"
   },
   {
     "word": "stygian",
@@ -4032,7 +4328,8 @@ const WORDS = [
         "-ian → relating to or resembling"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈstɪdʒ.i.ən/"
   },
   {
     "word": "lucent",
@@ -4046,7 +4343,8 @@ const WORDS = [
         "-ent → being or doing"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈluː.sənt/"
   },
   {
     "word": "lambent",
@@ -4060,7 +4358,8 @@ const WORDS = [
         "-ent → being or doing"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈlæm.bənt/"
   },
   {
     "word": "phosphorescent",
@@ -4075,7 +4374,8 @@ const WORDS = [
         "-escent → becoming or emitting"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌfɒs.fə.ˈrɛs.ənt/"
   },
   {
     "word": "gossamer",
@@ -4089,7 +4389,8 @@ const WORDS = [
         "summer → summer (mild autumn season)"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈɡɒs.ə.mər/"
   },
   {
     "word": "exiguous",
@@ -4104,7 +4405,8 @@ const WORDS = [
         "-ous → characterized by"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɪɡˈzɪɡ.ju.əs/"
   },
   {
     "word": "capacious",
@@ -4118,7 +4420,8 @@ const WORDS = [
         "-acious → tending or inclined to"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/kəˈpeɪ.ʃəs/"
   },
   {
     "word": "prodigious",
@@ -4133,7 +4436,8 @@ const WORDS = [
         "-ious → full of or characterized by"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/prəˈdɪdʒ.əs/"
   },
   {
     "word": "infinitesimal",
@@ -4147,7 +4451,8 @@ const WORDS = [
         "-esimal → ordinal suffix"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌɪn.fɪn.ɪˈtɛs.ɪ.məl/"
   },
   {
     "word": "melancholia",
@@ -4161,7 +4466,8 @@ const WORDS = [
         "chole → bile"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌmɛl.ənˈkoʊ.li.ə/"
   },
   {
     "word": "nostalgia",
@@ -4175,7 +4481,8 @@ const WORDS = [
         "algos → pain"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/nɒˈstæl.dʒə/"
   },
   {
     "word": "wistful",
@@ -4189,7 +4496,8 @@ const WORDS = [
         "-ful → full of"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈwɪst.fəl/"
   },
   {
     "word": "dolorous",
@@ -4203,7 +4511,8 @@ const WORDS = [
         "-ous → full of"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈdɒl.ər.əs/"
   },
   {
     "word": "petulant",
@@ -4217,7 +4526,8 @@ const WORDS = [
         "-ant → doing or being"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈpɛtʃ.ə.lənt/"
   },
   {
     "word": "irascible",
@@ -4231,7 +4541,8 @@ const WORDS = [
         "-scibilis → able or tending to"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɪˈræs.ɪ.bəl/"
   },
   {
     "word": "pugnacious",
@@ -4246,7 +4557,8 @@ const WORDS = [
         "-acious → tending to"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/pʌɡˈneɪ.ʃəs/"
   },
   {
     "word": "cantankerous",
@@ -4260,7 +4572,8 @@ const WORDS = [
         "-ous → characterized by"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/kænˈtæŋ.kər.əs/"
   },
   {
     "word": "obstreperous",
@@ -4275,7 +4588,8 @@ const WORDS = [
         "-ous → characterized by"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/əbˈstrɛp.ər.əs/"
   },
   {
     "word": "refractory",
@@ -4290,7 +4604,8 @@ const WORDS = [
         "-ory → relating to or characterized by"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/rɪˈfræk.tər.i/"
   },
   {
     "word": "obdurate",
@@ -4305,7 +4620,8 @@ const WORDS = [
         "-ate → state of being"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈɒb.djʊ.rɪt/"
   },
   {
     "word": "ingénue",
@@ -4320,7 +4636,8 @@ const WORDS = [
         "ingenuus → freeborn/frank"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈæn.ʒə.njuː/"
   },
   {
     "word": "sybaritic",
@@ -4334,7 +4651,8 @@ const WORDS = [
         "-itic → relating to or characterized by"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌsɪb.əˈrɪt.ɪk/"
   },
   {
     "word": "voluptuary",
@@ -4348,7 +4666,8 @@ const WORDS = [
         "-ary → one who is characterized by"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/vəˈlʌp.tʃu.ɛr.i/"
   },
   {
     "word": "ascetic",
@@ -4362,7 +4681,8 @@ const WORDS = [
         "-tic → relating to or characterized by"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/əˈsɛt.ɪk/"
   },
   {
     "word": "mendicant",
@@ -4376,7 +4696,8 @@ const WORDS = [
         "-ant → one who does"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈmɛn.dɪ.kənt/"
   },
   {
     "word": "penury",
@@ -4389,7 +4710,8 @@ const WORDS = [
         "penuria → scarcity/want"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈpɛn.jʊ.ri/"
   },
   {
     "word": "lucre",
@@ -4402,7 +4724,8 @@ const WORDS = [
         "lucrum → gain/profit"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈluː.kər/"
   },
   {
     "word": "largesse",
@@ -4416,7 +4739,8 @@ const WORDS = [
         "-esse → quality or state of"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/lɑːrˈdʒɛs/"
   },
   {
     "word": "parsimony",
@@ -4430,7 +4754,8 @@ const WORDS = [
         "-monia → quality or condition"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈpɑːr.sɪ.moʊ.ni/"
   },
   {
     "word": "niggardly",
@@ -4444,7 +4769,8 @@ const WORDS = [
         "-ly → characterized by"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈnɪɡ.ərd.li/"
   },
   {
     "word": "extravagant",
@@ -4459,7 +4785,8 @@ const WORDS = [
         "-ant → doing or being"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɪkˈstræv.ə.ɡənt/"
   },
   {
     "word": "prodigal",
@@ -4474,7 +4801,8 @@ const WORDS = [
         "-al → relating to"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈprɒd.ɪ.ɡəl/"
   },
   {
     "word": "profligate",
@@ -4489,7 +4817,8 @@ const WORDS = [
         "-ate → state of being"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈprɒf.lɪ.ɡɪt/"
   },
   {
     "word": "solecism",
@@ -4503,7 +4832,8 @@ const WORDS = [
         "-ism → practice or act of"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈsɒl.ɪ.sɪz.əm/"
   },
   {
     "word": "apposite",
@@ -4518,7 +4848,8 @@ const WORDS = [
         "-ite → state of being"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˈæp.ə.zɪt/"
   },
   {
     "word": "germane",
@@ -4531,7 +4862,8 @@ const WORDS = [
         "germanus → of the same birth/closely related"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/dʒərˈmeɪn/"
   },
   {
     "word": "supererogatory",
@@ -4546,7 +4878,8 @@ const WORDS = [
         "-ory → characterized by"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ˌsuː.pər.ɪˈrɒɡ.ə.tɔːr.i/"
   },
   {
     "word": "auspicious",
@@ -4561,7 +4894,8 @@ const WORDS = [
         "-ious → characterized by"
       ]
     },
-    "tier": 1
+    "tier": 1,
+    "pronunciation": "/ɔːˈspɪʃ.əs/"
   },
   {
     "word": "apodictic",
@@ -4575,7 +4909,8 @@ const WORDS = [
         "deiknynai → to show"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌæp.əˈdɪk.tɪk/"
   },
   {
     "word": "iatrogenic",
@@ -4590,7 +4925,8 @@ const WORDS = [
         "-ic → relating to"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/aɪˌæt.rəˈdʒɛn.ɪk/"
   },
   {
     "word": "litotes",
@@ -4603,7 +4939,8 @@ const WORDS = [
         "litos → smooth, plain, simple"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈlaɪ.tə.tiːz/"
   },
   {
     "word": "nosocomial",
@@ -4617,7 +4954,8 @@ const WORDS = [
         "komein → to tend, care for"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌnoʊ.zəˈkoʊ.mi.əl/"
   },
   {
     "word": "apophasis",
@@ -4631,7 +4969,8 @@ const WORDS = [
         "phanai → to speak"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/əˈpɒf.ə.sɪs/"
   },
   {
     "word": "catachresis",
@@ -4645,7 +4984,8 @@ const WORDS = [
         "khresthai → to use"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌkæt.əˈkriː.sɪs/"
   },
   {
     "word": "tautology",
@@ -4659,7 +4999,8 @@ const WORDS = [
         "logos → word, reason"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/tɔːˈtɒl.ə.dʒi/"
   },
   {
     "word": "aporia",
@@ -4673,7 +5014,8 @@ const WORDS = [
         "poros → passage, way through"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/əˈpɔːr.i.ə/"
   },
   {
     "word": "kenosis",
@@ -4687,7 +5029,8 @@ const WORDS = [
         "-osis → process or condition"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/kɪˈnoʊ.sɪs/"
   },
   {
     "word": "apocatastasis",
@@ -4702,7 +5045,8 @@ const WORDS = [
         "histanai → to stand, set"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌæp.ə.kəˈtæs.tə.sɪs/"
   },
   {
     "word": "pejorative",
@@ -4716,7 +5060,8 @@ const WORDS = [
         "-ative → tending to"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/pɪˈdʒɒr.ə.tɪv/"
   },
   {
     "word": "enchiridion",
@@ -4731,7 +5076,8 @@ const WORDS = [
         "-idion → small thing"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌɛn.kɪˈrɪd.i.ɒn/"
   },
   {
     "word": "prolepsis",
@@ -4745,7 +5091,8 @@ const WORDS = [
         "lambanein → to take, seize"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/proʊˈlɛp.sɪs/"
   },
   {
     "word": "syllepsis",
@@ -4759,7 +5106,8 @@ const WORDS = [
         "lambanein → to take"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/sɪˈlɛp.sɪs/"
   },
   {
     "word": "zeugma",
@@ -4772,7 +5120,8 @@ const WORDS = [
         "zeugos → yoke, pair"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈzjuːɡ.mə/"
   },
   {
     "word": "anaphora",
@@ -4786,7 +5135,8 @@ const WORDS = [
         "pherin → to carry, bear"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/əˈnæf.ər.ə/"
   },
   {
     "word": "epistrophe",
@@ -4800,7 +5150,8 @@ const WORDS = [
         "strephein → to turn"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ɪˈpɪs.trə.fi/"
   },
   {
     "word": "aposiopesis",
@@ -4814,7 +5165,8 @@ const WORDS = [
         "siopan → to be silent"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌæp.ə.saɪ.əˈpiː.sɪs/"
   },
   {
     "word": "hendiadys",
@@ -4829,7 +5181,8 @@ const WORDS = [
         "dyoin → of two"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/hɛnˈdaɪ.ə.dɪs/"
   },
   {
     "word": "parataxis",
@@ -4843,7 +5196,8 @@ const WORDS = [
         "tassein → to arrange, order"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌpær.əˈtæk.sɪs/"
   },
   {
     "word": "hypotaxis",
@@ -4857,7 +5211,8 @@ const WORDS = [
         "tassein → to arrange, order"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌhaɪ.pəˈtæk.sɪs/"
   },
   {
     "word": "synecdoche",
@@ -4872,7 +5227,8 @@ const WORDS = [
         "dekhesthai → to take, receive"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/sɪˈnɛk.də.ki/"
   },
   {
     "word": "periphrasis",
@@ -4886,7 +5242,8 @@ const WORDS = [
         "phrazein → to speak, declare"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/pəˈrɪf.rə.sɪs/"
   },
   {
     "word": "enantiosis",
@@ -4900,7 +5257,8 @@ const WORDS = [
         "antios → opposite, set against"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ɪˌnæn.tiˈoʊ.sɪs/"
   },
   {
     "word": "paronomasia",
@@ -4914,7 +5272,8 @@ const WORDS = [
         "onoma → name"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌpær.ə.nəˈmeɪ.zi.ə/"
   },
   {
     "word": "ekphrasis",
@@ -4928,7 +5287,8 @@ const WORDS = [
         "phrazein → to speak, tell"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈɛk.frə.sɪs/"
   },
   {
     "word": "diegesis",
@@ -4942,7 +5302,8 @@ const WORDS = [
         "hegeisthai → to lead, guide"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌdaɪ.əˈdʒiː.sɪs/"
   },
   {
     "word": "proleptic",
@@ -4956,7 +5317,8 @@ const WORDS = [
         "lambanein → to take, grasp"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/proʊˈlɛp.tɪk/"
   },
   {
     "word": "stochastic",
@@ -4970,7 +5332,8 @@ const WORDS = [
         "-tic → relating to"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/stəˈkæs.tɪk/"
   },
   {
     "word": "semiotic",
@@ -4984,7 +5347,8 @@ const WORDS = [
         "-tic → relating to"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌsiː.miˈɒt.ɪk/"
   },
   {
     "word": "dialectic",
@@ -4998,7 +5362,8 @@ const WORDS = [
         "legein → to speak, reason"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌdaɪ.əˈlɛk.tɪk/"
   },
   {
     "word": "oneiric",
@@ -5012,7 +5377,8 @@ const WORDS = [
         "-ic → relating to"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/oʊˈnaɪr.ɪk/"
   },
   {
     "word": "chthonic",
@@ -5026,7 +5392,8 @@ const WORDS = [
         "-ic → relating to"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈθɒn.ɪk/"
   },
   {
     "word": "apotropaic",
@@ -5040,7 +5407,8 @@ const WORDS = [
         "trepein → to turn"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌæp.ə.trəˈpeɪ.ɪk/"
   },
   {
     "word": "eidetic",
@@ -5054,7 +5422,8 @@ const WORDS = [
         "-tic → relating to"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/aɪˈdɛt.ɪk/"
   },
   {
     "word": "hermeneutics",
@@ -5068,7 +5437,8 @@ const WORDS = [
         "-eutikos → skilled in, pertaining to"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌhɜːr.məˈnjuː.tɪks/"
   },
   {
     "word": "teleology",
@@ -5082,7 +5452,8 @@ const WORDS = [
         "logos → word, study, reason"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌtɛl.iˈɒl.ə.dʒi/"
   },
   {
     "word": "ontology",
@@ -5096,7 +5467,8 @@ const WORDS = [
         "logos → word, study"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ɒnˈtɒl.ə.dʒi/"
   },
   {
     "word": "epistemology",
@@ -5110,7 +5482,8 @@ const WORDS = [
         "logos → word, study"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ɪˌpɪs.tɪˈmɒl.ə.dʒi/"
   },
   {
     "word": "apophatic",
@@ -5124,7 +5497,8 @@ const WORDS = [
         "phanai → to speak, say"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌæp.əˈfæt.ɪk/"
   },
   {
     "word": "cathexis",
@@ -5138,7 +5512,8 @@ const WORDS = [
         "ekhein → to hold, have"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/kəˈθɛk.sɪs/"
   },
   {
     "word": "abreaction",
@@ -5152,7 +5527,8 @@ const WORDS = [
         "reagieren → to react"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌæb.riˈæk.ʃən/"
   },
   {
     "word": "thanatopsis",
@@ -5166,7 +5542,8 @@ const WORDS = [
         "opsis → view, sight, appearance"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌθæn.əˈtɒp.sɪs/"
   },
   {
     "word": "eschatology",
@@ -5180,7 +5557,8 @@ const WORDS = [
         "logos → word, study"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌɛs.kəˈtɒl.ə.dʒi/"
   },
   {
     "word": "haecceity",
@@ -5194,7 +5572,8 @@ const WORDS = [
         "-itas → quality, state of"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/hɛkˈsiː.ɪ.ti/"
   },
   {
     "word": "quiddity",
@@ -5208,7 +5587,8 @@ const WORDS = [
         "-itas → quality, state of being"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈkwɪd.ɪ.ti/"
   },
   {
     "word": "apodosis",
@@ -5222,7 +5602,8 @@ const WORDS = [
         "didonai → to give"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/əˈpɒd.ə.sɪs/"
   },
   {
     "word": "phronesis",
@@ -5236,7 +5617,8 @@ const WORDS = [
         "-esis → process, action"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/frɒˈniː.sɪs/"
   },
   {
     "word": "eudaimonia",
@@ -5250,7 +5632,8 @@ const WORDS = [
         "daimon → spirit, divine power"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌjuː.daɪˈmoʊ.ni.ə/"
   },
   {
     "word": "ataraxia",
@@ -5264,7 +5647,8 @@ const WORDS = [
         "taraktos → disturbed, troubled"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌæt.əˈræk.si.ə/"
   },
   {
     "word": "apatheia",
@@ -5278,7 +5662,8 @@ const WORDS = [
         "pathos → suffering, feeling, emotion"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌæp.əˈθiː.ə/"
   },
   {
     "word": "acedia",
@@ -5292,7 +5677,8 @@ const WORDS = [
         "kedos → care, grief, concern"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/əˈsiː.di.ə/"
   },
   {
     "word": "phantasmagoria",
@@ -5306,7 +5692,8 @@ const WORDS = [
         "agora → assembly, place of gathering"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/fænˌtæz.məˈɡɔːr.i.ə/"
   },
   {
     "word": "pareidolia",
@@ -5320,7 +5707,8 @@ const WORDS = [
         "eidolon → image, form, phantom"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌpær.aɪˈdoʊ.li.ə/"
   },
   {
     "word": "interoception",
@@ -5335,7 +5723,8 @@ const WORDS = [
         "-tion → action, process"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌɪn.tər.oʊˈsɛp.ʃən/"
   },
   {
     "word": "allostasis",
@@ -5349,7 +5738,8 @@ const WORDS = [
         "stasis → standing, stability, balance"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌæl.əˈsteɪ.sɪs/"
   },
   {
     "word": "dysphoria",
@@ -5363,7 +5753,8 @@ const WORDS = [
         "phora → bearing, carrying"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/dɪsˈfɔːr.i.ə/"
   },
   {
     "word": "anhedonia",
@@ -5377,7 +5768,8 @@ const WORDS = [
         "hedone → pleasure, delight"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌæn.hɪˈdoʊ.ni.ə/"
   },
   {
     "word": "prosopagnosia",
@@ -5392,7 +5784,8 @@ const WORDS = [
         "gnosis → knowledge, recognition"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌprɒs.ə.pæɡˈnoʊ.zi.ə/"
   },
   {
     "word": "anosognosia",
@@ -5407,7 +5800,8 @@ const WORDS = [
         "gnosis → knowledge, awareness"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/əˌnoʊ.sɒɡˈnoʊ.zi.ə/"
   },
   {
     "word": "confabulation",
@@ -5422,7 +5816,8 @@ const WORDS = [
         "-tion → action, process"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/kənˌfæb.jʊˈleɪ.ʃən/"
   },
   {
     "word": "alexia",
@@ -5436,7 +5831,8 @@ const WORDS = [
         "lexis → word, speech"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/əˈlɛk.si.ə/"
   },
   {
     "word": "apraxia",
@@ -5450,7 +5846,8 @@ const WORDS = [
         "praxis → action, doing, practice"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/eɪˈpræk.si.ə/"
   },
   {
     "word": "agnosia",
@@ -5464,7 +5861,8 @@ const WORDS = [
         "gnosis → knowledge, recognition"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/æɡˈnoʊ.zi.ə/"
   },
   {
     "word": "palinopsia",
@@ -5478,7 +5876,8 @@ const WORDS = [
         "opsis → vision, sight"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌpæl.ɪˈnɒp.si.ə/"
   },
   {
     "word": "hypermnesia",
@@ -5492,7 +5891,8 @@ const WORDS = [
         "mnesia → memory"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌhaɪ.pɜːrˈniː.zi.ə/"
   },
   {
     "word": "paresthesia",
@@ -5506,7 +5906,8 @@ const WORDS = [
         "aisthesis → sensation, feeling"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌpær.ɪsˈθiː.zi.ə/"
   },
   {
     "word": "anesthesia",
@@ -5520,7 +5921,8 @@ const WORDS = [
         "aisthesis → sensation, feeling"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌæn.ɪsˈθiː.zi.ə/"
   },
   {
     "word": "somatosensory",
@@ -5534,7 +5936,8 @@ const WORDS = [
         "sensorius → pertaining to sense"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌsoʊ.mə.toʊˈsɛn.sər.i/"
   },
   {
     "word": "hysteresis",
@@ -5548,7 +5951,8 @@ const WORDS = [
         "-sis → process, condition"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌhɪs.təˈriː.sɪs/"
   },
   {
     "word": "apoptosis",
@@ -5562,7 +5966,8 @@ const WORDS = [
         "ptosis → falling"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌæp.əpˈtoʊ.sɪs/"
   },
   {
     "word": "morphogenesis",
@@ -5576,7 +5981,8 @@ const WORDS = [
         "genesis → origin, creation, birth"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌmɔːr.fəˈdʒɛn.ɪ.sɪs/"
   },
   {
     "word": "trophic",
@@ -5590,7 +5996,8 @@ const WORDS = [
         "-ic → relating to"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈtrɒf.ɪk/"
   },
   {
     "word": "syntropy",
@@ -5604,7 +6011,8 @@ const WORDS = [
         "trope → turn, transformation"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈsɪn.trə.pi/"
   },
   {
     "word": "heterodox",
@@ -5618,7 +6026,8 @@ const WORDS = [
         "doxa → opinion, belief, glory"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈhɛt.ər.ə.dɒks/"
   },
   {
     "word": "veridical",
@@ -5632,7 +6041,8 @@ const WORDS = [
         "dicere → to say, speak"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/vɪˈrɪd.ɪ.kəl/"
   },
   {
     "word": "probative",
@@ -5646,7 +6056,8 @@ const WORDS = [
         "-ative → tending to, relating to"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈproʊ.bə.tɪv/"
   },
   {
     "word": "apodeictic",
@@ -5660,7 +6071,8 @@ const WORDS = [
         "deiknynai → to show, demonstrate"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌæp.əˈdaɪk.tɪk/"
   },
   {
     "word": "incunabula",
@@ -5675,7 +6087,8 @@ const WORDS = [
         "-bula → place of"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌɪŋ.kjʊˈnæb.jʊ.lə/"
   },
   {
     "word": "marginalia",
@@ -5689,7 +6102,8 @@ const WORDS = [
         "-alia → plural neuter suffix"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌmɑːr.dʒɪˈneɪ.li.ə/"
   },
   {
     "word": "codex",
@@ -5702,7 +6116,8 @@ const WORDS = [
         "caudex → trunk, wooden tablet"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈkoʊ.dɛks/"
   },
   {
     "word": "exegesis",
@@ -5716,7 +6131,8 @@ const WORDS = [
         "hegeisthai → to lead, guide"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌɛk.sɪˈdʒiː.sɪs/"
   },
   {
     "word": "isagoge",
@@ -5730,7 +6146,8 @@ const WORDS = [
         "agein → to lead, drive"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌɪs.əˈɡoʊ.dʒi/"
   },
   {
     "word": "threnody",
@@ -5744,7 +6161,8 @@ const WORDS = [
         "oide → song, ode"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈθrɛn.ə.di/"
   },
   {
     "word": "epithalamium",
@@ -5758,7 +6176,8 @@ const WORDS = [
         "thalamos → inner chamber, bridal room"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌɛp.ɪ.θəˈleɪ.mi.əm/"
   },
   {
     "word": "encomium",
@@ -5772,7 +6191,8 @@ const WORDS = [
         "komos → festive procession, revel"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ɛnˈkoʊ.mi.əm/"
   },
   {
     "word": "panegyric",
@@ -5786,7 +6206,8 @@ const WORDS = [
         "agyris → assembly, gathering"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌpæn.ɪˈdʒɪr.ɪk/"
   },
   {
     "word": "dithyramb",
@@ -5799,7 +6220,8 @@ const WORDS = [
         "dithyrambos → hymn to Dionysus (perhaps related to a name for the god)"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈdɪθ.ɪ.ræm/"
   },
   {
     "word": "prosody",
@@ -5813,7 +6235,8 @@ const WORDS = [
         "oide → song, ode"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈprɒs.ə.di/"
   },
   {
     "word": "tmemic",
@@ -5827,7 +6250,8 @@ const WORDS = [
         "mimnesthai → to imitate"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈtiː.mɪk/"
   },
   {
     "word": "sememe",
@@ -5841,7 +6265,8 @@ const WORDS = [
         "-eme → minimal unit of"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈsiː.miːm/"
   },
   {
     "word": "morpheme",
@@ -5855,7 +6280,8 @@ const WORDS = [
         "-eme → minimal unit of"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈmɔːr.fiːm/"
   },
   {
     "word": "lexeme",
@@ -5869,7 +6295,8 @@ const WORDS = [
         "-eme → minimal unit of"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈlɛk.siːm/"
   },
   {
     "word": "gloss",
@@ -5882,7 +6309,8 @@ const WORDS = [
         "glossa → tongue, language, obscure term"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ɡlɒs/"
   },
   {
     "word": "hapax legomenon",
@@ -5896,7 +6324,8 @@ const WORDS = [
         "legomenon → being said, (from legein 'to say')"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈheɪ.pæks lɪˈɡɒm.ɪ.nɒn/"
   },
   {
     "word": "polysemy",
@@ -5910,7 +6339,8 @@ const WORDS = [
         "sema → sign, meaning, mark"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/pɒˈlɪs.ɪ.mi/"
   },
   {
     "word": "deixis",
@@ -5923,7 +6353,8 @@ const WORDS = [
         "deiknynai → to show, point out"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈdaɪk.sɪs/"
   },
   {
     "word": "calque",
@@ -5937,7 +6368,8 @@ const WORDS = [
         "from Latin calx → heel"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/kælk/"
   },
   {
     "word": "lagniappe",
@@ -5951,7 +6383,8 @@ const WORDS = [
         "ñapa/yapa → additional gift, something extra"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈlæn.jæp/"
   },
   {
     "word": "schadenfreude",
@@ -5965,7 +6398,8 @@ const WORDS = [
         "Freude → joy, delight"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈʃɑː.dən.frɔɪ.də/"
   },
   {
     "word": "weltanschauung",
@@ -5979,7 +6413,8 @@ const WORDS = [
         "anschauen → to look at, perceive"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈvɛlt.ɑːn.ʃaʊ.ʊŋ/"
   },
   {
     "word": "saudade",
@@ -5993,7 +6428,8 @@ const WORDS = [
         "-itas → quality, state"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/saʊˈdɑː.də/"
   },
   {
     "word": "torschlusspanik",
@@ -6008,7 +6444,8 @@ const WORDS = [
         "Panik → panic, fear"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈtɔːr.ʃlʊs.pæn.ɪk/"
   },
   {
     "word": "wabi-sabi",
@@ -6022,7 +6459,8 @@ const WORDS = [
         "sabi → the patina of age and use"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌwɑː.biˈsɑː.bi/"
   },
   {
     "word": "mono no aware",
@@ -6037,7 +6475,8 @@ const WORDS = [
         "aware → pathos, emotion, sensitivity"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌmoʊ.noʊ noʊ əˈwɑː.reɪ/"
   },
   {
     "word": "meraki",
@@ -6050,7 +6489,8 @@ const WORDS = [
         "merak → passion, desire, obsessive interest (Turkish origin)"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/mɛˈrɑː.ki/"
   },
   {
     "word": "kairos",
@@ -6063,7 +6503,8 @@ const WORDS = [
         "kairos → the opportune moment, the right time"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈkaɪ.rɒs/"
   },
   {
     "word": "nemesis",
@@ -6076,7 +6517,8 @@ const WORDS = [
         "nemein → to deal out, distribute, give what is due"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈnɛm.ɪ.sɪs/"
   },
   {
     "word": "cathartic",
@@ -6090,7 +6532,8 @@ const WORDS = [
         "-tic → relating to"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/kəˈθɑːr.tɪk/"
   },
   {
     "word": "anacolutha",
@@ -6104,7 +6547,8 @@ const WORDS = [
         "akolouthos → following, consistent"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌæn.ə.kəˈluː.θə/"
   },
   {
     "word": "pleonasm",
@@ -6118,7 +6562,8 @@ const WORDS = [
         "-asmos → process, condition"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈpli.ə.næz.əm/"
   },
   {
     "word": "meiosis",
@@ -6132,7 +6577,8 @@ const WORDS = [
         "-osis → process, condition"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/maɪˈoʊ.sɪs/"
   },
   {
     "word": "auxesis",
@@ -6146,7 +6592,8 @@ const WORDS = [
         "-sis → process, action"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ɔkˈsi.sɪs/"
   },
   {
     "word": "peripety",
@@ -6160,7 +6607,8 @@ const WORDS = [
         "piptein → to fall"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/pəˈrɪp.ɪ.ti/"
   },
   {
     "word": "hamartia",
@@ -6173,7 +6621,8 @@ const WORDS = [
         "hamartanein → to err, to miss the mark"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌhæm.ɑrˈti.ə/"
   },
   {
     "word": "anagnorisis",
@@ -6187,7 +6636,8 @@ const WORDS = [
         "gnorizein → to make known, recognize"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌæn.əɡˈnɔr.ɪ.sɪs/"
   },
   {
     "word": "enargeia",
@@ -6201,7 +6651,8 @@ const WORDS = [
         "argos → bright, shining, clear"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌɛn.ɑrˈdʒi.ə/"
   },
   {
     "word": "epideictic",
@@ -6215,7 +6666,8 @@ const WORDS = [
         "deiknynai → to show, display"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌɛp.ɪˈdaɪk.tɪk/"
   },
   {
     "word": "forensic",
@@ -6229,7 +6681,8 @@ const WORDS = [
         "-ensis → of, belonging to"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/fəˈrɛn.zɪk/"
   },
   {
     "word": "suasion",
@@ -6243,7 +6696,8 @@ const WORDS = [
         "-ion → action, process"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈsweɪ.ʒən/"
   },
   {
     "word": "sophrosyne",
@@ -6257,7 +6711,8 @@ const WORDS = [
         "phren → mind, heart, diaphragm"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/sɒˈfrɒs.ɪ.ni/"
   },
   {
     "word": "thumos",
@@ -6270,7 +6725,8 @@ const WORDS = [
         "thuein → to rush, to rage, to offer sacrifice"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈθu.mɒs/"
   },
   {
     "word": "miasma",
@@ -6283,7 +6739,8 @@ const WORDS = [
         "miainein → to stain, pollute, defile"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/maɪˈæz.mə/"
   },
   {
     "word": "ichor",
@@ -6296,7 +6753,8 @@ const WORDS = [
         "ikhor → the divine fluid (of uncertain further etymology)"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈaɪ.kɔr/"
   },
   {
     "word": "nectar",
@@ -6310,7 +6768,8 @@ const WORDS = [
         "-tar → overcoming, carrying across"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈnɛk.tər/"
   },
   {
     "word": "ambrosia",
@@ -6324,7 +6783,8 @@ const WORDS = [
         "brotos → mortal, subject to death"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/æmˈbroʊ.ʒə/"
   },
   {
     "word": "palimony",
@@ -6338,7 +6798,8 @@ const WORDS = [
         "alimony → spousal support (from Latin alimonia 'sustenance')"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈpæl.ɪ.moʊ.ni/"
   },
   {
     "word": "logodaedaly",
@@ -6352,7 +6813,8 @@ const WORDS = [
         "Daidalos → Daedalus, the mythical inventor and craftsman"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌlɒɡ.oʊˈdɛd.ə.li/"
   },
   {
     "word": "philippic",
@@ -6365,7 +6827,8 @@ const WORDS = [
         "Philippos → Philip of Macedon (phil 'loving' + hippos 'horse')"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/fɪˈlɪp.ɪk/"
   },
   {
     "word": "jeremiad",
@@ -6378,7 +6841,8 @@ const WORDS = [
         "Jeremiah → the biblical prophet known for his lamenting prophecies"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌdʒɛr.ɪˈmaɪ.æd/"
   },
   {
     "word": "polemic",
@@ -6392,7 +6856,8 @@ const WORDS = [
         "-ic → relating to, of the nature of"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/pəˈlɛm.ɪk/"
   },
   {
     "word": "diatribe",
@@ -6406,7 +6871,8 @@ const WORDS = [
         "tribein → to rub, wear away"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈdaɪ.ə.traɪb/"
   },
   {
     "word": "luculent",
@@ -6420,7 +6886,8 @@ const WORDS = [
         "-entus/-ulent → full of, abounding in"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈlu.kjʊ.lənt/"
   },
   {
     "word": "mordant",
@@ -6433,7 +6900,8 @@ const WORDS = [
         "mordere → to bite, sting"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈmɔr.dənt/"
   },
   {
     "word": "trenchant",
@@ -6446,7 +6914,8 @@ const WORDS = [
         "trenchier/trincare → to cut, slice"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈtrɛn.tʃənt/"
   },
   {
     "word": "torpor",
@@ -6459,7 +6928,8 @@ const WORDS = [
         "torpere → to be numb, stiff, sluggish"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈtɔr.pər/"
   },
   {
     "word": "somnolent",
@@ -6473,7 +6943,8 @@ const WORDS = [
         "-olentus → full of, abounding in"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈsɒm.nə.lənt/"
   },
   {
     "word": "abstemious",
@@ -6487,7 +6958,8 @@ const WORDS = [
         "temetum → strong drink, intoxicating liquor"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/æbˈsti.mi.əs/"
   },
   {
     "word": "temperate",
@@ -6501,7 +6973,8 @@ const WORDS = [
         "tempus → time, season"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈtɛm.pər.ɪt/"
   },
   {
     "word": "intemperate",
@@ -6515,7 +6988,8 @@ const WORDS = [
         "temperatus → moderate, restrained"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ɪnˈtɛm.pər.ɪt/"
   },
   {
     "word": "venial",
@@ -6529,7 +7003,8 @@ const WORDS = [
         "-alis → of, relating to"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈvi.ni.əl/"
   },
   {
     "word": "invidious",
@@ -6544,7 +7019,8 @@ const WORDS = [
         "-iosus → full of"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ɪnˈvɪd.i.əs/"
   },
   {
     "word": "garrulous",
@@ -6558,7 +7034,8 @@ const WORDS = [
         "-ulus → having the quality of"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈɡær.ʊ.ləs/"
   },
   {
     "word": "bathetic",
@@ -6572,7 +7049,8 @@ const WORDS = [
         "-etic → relating to, of the nature of"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/bəˈθɛt.ɪk/"
   },
   {
     "word": "mawkish",
@@ -6586,7 +7064,8 @@ const WORDS = [
         "-ish → somewhat, having the quality of"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈmɔ.kɪʃ/"
   },
   {
     "word": "nocturnal",
@@ -6600,7 +7079,8 @@ const WORDS = [
         "-alis → of, pertaining to"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/nɒkˈtɜr.nəl/"
   },
   {
     "word": "suzerainty",
@@ -6614,7 +7094,8 @@ const WORDS = [
         "-erain → suffix of domination (as in 'sovereign')"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈsu.zər.ən.ti/"
   },
   {
     "word": "qualia",
@@ -6628,7 +7109,8 @@ const WORDS = [
         "-ia → plural neuter suffix"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈkwɑ.li.ə/"
   },
   {
     "word": "praxis",
@@ -6641,7 +7123,8 @@ const WORDS = [
         "prassein → to do, to act"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈpræk.sɪs/"
   },
   {
     "word": "sfumato",
@@ -6655,7 +7138,8 @@ const WORDS = [
         "fumare → to smoke, to fume"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/sfuˈmɑ.toʊ/"
   },
   {
     "word": "chiaroscuro",
@@ -6669,7 +7153,8 @@ const WORDS = [
         "scuro → dark, obscure"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ki.ˌɑr.əˈskjʊər.oʊ/"
   },
   {
     "word": "tenebrism",
@@ -6683,7 +7168,8 @@ const WORDS = [
         "-ism → style or practice"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈtɛn.ɪ.brɪz.əm/"
   },
   {
     "word": "impasto",
@@ -6697,7 +7183,8 @@ const WORDS = [
         "pasta → paste, dough"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ɪmˈpæs.toʊ/"
   },
   {
     "word": "scintilla",
@@ -6710,7 +7197,8 @@ const WORDS = [
         "scintilla → spark, glimmer"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/sɪnˈtɪl.ə/"
   },
   {
     "word": "nacreous",
@@ -6724,7 +7212,8 @@ const WORDS = [
         "-ous → having the quality of"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈneɪ.kri.əs/"
   },
   {
     "word": "caesura",
@@ -6738,7 +7227,8 @@ const WORDS = [
         "-ura → result or act of"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/sɪˈzjʊər.ə/"
   },
   {
     "word": "ostinato",
@@ -6751,7 +7241,8 @@ const WORDS = [
         "obstinare → to persist, to persist firmly"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌɒs.tɪˈnɑ.toʊ/"
   },
   {
     "word": "tessitura",
@@ -6765,7 +7256,8 @@ const WORDS = [
         "-ura → quality or result"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌtɛs.ɪˈtʊər.ə/"
   },
   {
     "word": "rubato",
@@ -6778,7 +7270,8 @@ const WORDS = [
         "rubare → to steal, to rob (i.e., time stolen from strict tempo)"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ruˈbɑ.toʊ/"
   },
   {
     "word": "contrapuntal",
@@ -6792,7 +7285,8 @@ const WORDS = [
         "punctus → point, note"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌkɒn.trəˈpʌn.təl/"
   },
   {
     "word": "telos",
@@ -6805,7 +7299,8 @@ const WORDS = [
         "telos → end, goal, completion"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈtɛl.ɒs/"
   },
   {
     "word": "antinomy",
@@ -6819,7 +7314,8 @@ const WORDS = [
         "nomos → law, rule"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ænˈtɪn.ə.mi/"
   },
   {
     "word": "epiphenomenon",
@@ -6833,7 +7329,8 @@ const WORDS = [
         "phainomenon → appearance, what appears"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌɛp.ɪ.fɪˈnɒm.ɪ.nɒn/"
   },
   {
     "word": "noumenon",
@@ -6847,7 +7344,8 @@ const WORDS = [
         "-menon → passive participial suffix"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈnaʊ.mɪ.nɒn/"
   },
   {
     "word": "conatus",
@@ -6860,7 +7358,8 @@ const WORDS = [
         "conari → to attempt, to strive"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/koʊˈneɪ.təs/"
   },
   {
     "word": "involution",
@@ -6874,7 +7373,8 @@ const WORDS = [
         "volvere → to roll"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌɪn.vəˈlu.ʃən/"
   },
   {
     "word": "filigree",
@@ -6888,7 +7388,8 @@ const WORDS = [
         "granum → grain, seed"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈfɪl.ɪ.ɡri/"
   },
   {
     "word": "corbel",
@@ -6901,7 +7402,8 @@ const WORDS = [
         "corvus → crow, raven"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈkɔr.bəl/"
   },
   {
     "word": "fenestration",
@@ -6915,7 +7417,8 @@ const WORDS = [
         "-ation → process or result of"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌfɛn.ɪˈstreɪ.ʃən/"
   },
   {
     "word": "clerestory",
@@ -6929,7 +7432,8 @@ const WORDS = [
         "story → level of a building"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈklɪər.stɔr.i/"
   },
   {
     "word": "entasis",
@@ -6943,7 +7447,8 @@ const WORDS = [
         "teinein → to stretch"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈɛn.tə.sɪs/"
   },
   {
     "word": "rustication",
@@ -6957,7 +7462,8 @@ const WORDS = [
         "-ation → act or process"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌrʌs.tɪˈkeɪ.ʃən/"
   },
   {
     "word": "spandrel",
@@ -6970,7 +7476,8 @@ const WORDS = [
         "espandre → to expand, spread"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈspæn.drəl/"
   },
   {
     "word": "quoin",
@@ -6983,7 +7490,8 @@ const WORDS = [
         "cuneus → wedge, corner"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/kɔɪn/"
   },
   {
     "word": "voussoir",
@@ -6996,7 +7504,8 @@ const WORDS = [
         "volvere → to roll, to turn (describing the curve of an arch)"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/vuˈswɑr/"
   },
   {
     "word": "crenellation",
@@ -7010,7 +7519,8 @@ const WORDS = [
         "-ation → process or feature"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌkrɛn.əˈleɪ.ʃən/"
   },
   {
     "word": "champleve",
@@ -7024,7 +7534,8 @@ const WORDS = [
         "levé → raised, lifted"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌʃɑm.pləˈveɪ/"
   },
   {
     "word": "grout",
@@ -7037,7 +7548,8 @@ const WORDS = [
         "grut → coarse meal, sediment"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ɡraʊt/"
   },
   {
     "word": "priming",
@@ -7051,7 +7563,8 @@ const WORDS = [
         "-ing → action or process"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈpraɪ.mɪŋ/"
   },
   {
     "word": "affect",
@@ -7065,7 +7578,8 @@ const WORDS = [
         "facere → to do, to make"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈæf.ɛkt/"
   },
   {
     "word": "hypervigilance",
@@ -7079,7 +7593,8 @@ const WORDS = [
         "vigilare → to watch, to stay awake"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌhaɪ.pərˈvɪdʒ.ɪ.ləns/"
   },
   {
     "word": "deracinate",
@@ -7093,7 +7608,8 @@ const WORDS = [
         "radix → root"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/dɪˈræs.ɪ.neɪt/"
   },
   {
     "word": "atavism",
@@ -7107,7 +7623,8 @@ const WORDS = [
         "-ism → condition or phenomenon"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈæt.ə.vɪz.əm/"
   },
   {
     "word": "sympatric",
@@ -7121,7 +7638,8 @@ const WORDS = [
         "patria → fatherland, homeland"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/sɪmˈpæt.rɪk/"
   },
   {
     "word": "etiolate",
@@ -7134,7 +7652,8 @@ const WORDS = [
         "éteuler → to sprout, to grow long and pale"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈi.ti.ə.leɪt/"
   },
   {
     "word": "tropism",
@@ -7148,7 +7667,8 @@ const WORDS = [
         "-ism → process or condition"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈtroʊ.pɪz.əm/"
   },
   {
     "word": "dehiscence",
@@ -7162,7 +7682,8 @@ const WORDS = [
         "hiscere → to gape, to yawn open"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/dɪˈhɪs.əns/"
   },
   {
     "word": "viviparous",
@@ -7176,7 +7697,8 @@ const WORDS = [
         "parere → to give birth, to produce"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/vɪˈvɪp.ər.əs/"
   },
   {
     "word": "marcescence",
@@ -7190,7 +7712,8 @@ const WORDS = [
         "-escence → process of becoming"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/mɑrˈsɛs.əns/"
   },
   {
     "word": "iridescent",
@@ -7204,7 +7727,8 @@ const WORDS = [
         "-escent → showing, having the quality of"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌɪr.ɪˈdɛs.ənt/"
   },
   {
     "word": "fulgurant",
@@ -7218,7 +7742,8 @@ const WORDS = [
         "-ant → characterized by"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈfʌl.ɡjʊ.rənt/"
   },
   {
     "word": "murky",
@@ -7231,7 +7756,8 @@ const WORDS = [
         "myrkr → darkness, gloom"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈmɜr.ki/"
   },
   {
     "word": "irradiate",
@@ -7246,7 +7772,8 @@ const WORDS = [
         "-are → infinitive verb suffix"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ɪˈreɪ.di.eɪt/"
   },
   {
     "word": "hirsutal",
@@ -7259,7 +7786,8 @@ const WORDS = [
         "hirsutus → hairy, bristly, rough"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/hɜrˈsju.təl/"
   },
   {
     "word": "velvet",
@@ -7273,7 +7801,8 @@ const WORDS = [
         "-et → diminutive suffix"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈvɛl.vɪt/"
   },
   {
     "word": "coriaceous",
@@ -7287,7 +7816,8 @@ const WORDS = [
         "-aceus → of the nature of"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌkɔr.iˈeɪ.ʃəs/"
   },
   {
     "word": "glabrous",
@@ -7301,7 +7831,8 @@ const WORDS = [
         "-ous → having the quality of"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈɡleɪ.brəs/"
   },
   {
     "word": "reticulate",
@@ -7316,7 +7847,8 @@ const WORDS = [
         "-atus → having the form of"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/rɪˈtɪk.jʊ.lɪt/"
   },
   {
     "word": "striated",
@@ -7330,7 +7862,8 @@ const WORDS = [
         "-atus → having the form of"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈstraɪ.eɪ.tɪd/"
   },
   {
     "word": "scabrous",
@@ -7344,7 +7877,8 @@ const WORDS = [
         "-osus → full of, characterized by"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈskeɪ.brəs/"
   },
   {
     "word": "granular",
@@ -7359,7 +7893,8 @@ const WORDS = [
         "-ar → relating to"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈɡræn.jʊ.lər/"
   },
   {
     "word": "patinaed",
@@ -7372,7 +7907,8 @@ const WORDS = [
         "patina → shallow dish, later: surface coating"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈpæt.ɪ.nɪd/"
   },
   {
     "word": "verdigris",
@@ -7387,7 +7923,8 @@ const WORDS = [
         "Grèce → Greece"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈvɜr.dɪ.ɡrɪs/"
   },
   {
     "word": "kokumi",
@@ -7401,7 +7938,8 @@ const WORDS = [
         "mi → taste, flavor"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/koʊˈku.mi/"
   },
   {
     "word": "maillard",
@@ -7412,7 +7950,8 @@ const WORDS = [
       "origin": "Named after French chemist Louis-Camille Maillard, who described the reaction in 1912",
       "parts": []
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/maɪˈɑrd/"
   },
   {
     "word": "terroir",
@@ -7426,7 +7965,8 @@ const WORDS = [
         "-oir → place or domain of"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/tɛˈrwɑr/"
   },
   {
     "word": "mouthfeel",
@@ -7440,7 +7980,8 @@ const WORDS = [
         "feel → sensation, tactile perception"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈmaʊθ.fil/"
   },
   {
     "word": "acidulate",
@@ -7455,7 +7996,8 @@ const WORDS = [
         "-ate → to make"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/əˈsɪd.jʊ.leɪt/"
   },
   {
     "word": "escabeche",
@@ -7468,7 +8010,8 @@ const WORDS = [
         "sikbaj → a dish cooked with vinegar"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌɛs.kəˈbeɪ.tʃeɪ/"
   },
   {
     "word": "gastrique",
@@ -7482,7 +8025,8 @@ const WORDS = [
         "-ique → relating to"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ɡæˈstrik/"
   },
   {
     "word": "deglaze",
@@ -7496,7 +8040,8 @@ const WORDS = [
         "glacer → to glaze, to cover with a gloss"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/diˈɡleɪz/"
   },
   {
     "word": "brunoise",
@@ -7509,7 +8054,8 @@ const WORDS = [
         "brun → brown"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/bruˈnwɑz/"
   },
   {
     "word": "rancio",
@@ -7522,7 +8068,8 @@ const WORDS = [
         "rancidus → rancid, rank, stale"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈrɑn.si.oʊ/"
   },
   {
     "word": "prescind",
@@ -7536,7 +8083,8 @@ const WORDS = [
         "scindere → to cut, to split"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/prɪˈsɪnd/"
   },
   {
     "word": "anadiplosis",
@@ -7550,7 +8098,8 @@ const WORDS = [
         "diploos → double"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌæn.ə.dɪˈploʊ.sɪs/"
   },
   {
     "word": "anacrusis",
@@ -7564,7 +8113,8 @@ const WORDS = [
         "krouein → to strike, to beat"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌæn.əˈkru.sɪs/"
   },
   {
     "word": "lemniscate",
@@ -7577,7 +8127,8 @@ const WORDS = [
         "lemniscus → ribbon (from Greek 'lemniskos')"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈlɛm.nɪ.skɪt/"
   },
   {
     "word": "catena",
@@ -7590,7 +8141,8 @@ const WORDS = [
         "catena → chain, link"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/kəˈti.nə/"
   },
   {
     "word": "nexus",
@@ -7603,7 +8155,8 @@ const WORDS = [
         "nectere → to bind, to tie"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈnɛk.səs/"
   },
   {
     "word": "divaricate",
@@ -7617,7 +8170,8 @@ const WORDS = [
         "varus → bent apart, bow-legged"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/daɪˈvær.ɪ.keɪt/"
   },
   {
     "word": "anfractuous",
@@ -7631,7 +8185,8 @@ const WORDS = [
         "frangere → to break, to bend"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ænˈfræk.tʃu.əs/"
   },
   {
     "word": "tortuous",
@@ -7645,7 +8200,8 @@ const WORDS = [
         "-osus → full of"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈtɔr.tʃu.əs/"
   },
   {
     "word": "intercalate",
@@ -7659,7 +8215,8 @@ const WORDS = [
         "calare → to announce, to call"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ɪnˈtɜr.kə.leɪt/"
   },
   {
     "word": "interpolate",
@@ -7673,7 +8230,8 @@ const WORDS = [
         "polire → to polish, to alter"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ɪnˈtɜr.pə.leɪt/"
   },
   {
     "word": "adumbrate",
@@ -7687,7 +8245,8 @@ const WORDS = [
         "umbra → shadow"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈæd.əm.breɪt/"
   },
   {
     "word": "defalcation",
@@ -7701,7 +8260,8 @@ const WORDS = [
         "falx → sickle, blade"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌdi.fælˈkeɪ.ʃən/"
   },
   {
     "word": "estoppel",
@@ -7714,7 +8274,8 @@ const WORDS = [
         "estouper → to stop up, to plug"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ɪˈstɒp.əl/"
   },
   {
     "word": "tortfeasor",
@@ -7728,7 +8289,8 @@ const WORDS = [
         "fesour → doer, one who acts"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈtɔrt.fi.zər/"
   },
   {
     "word": "mens rea",
@@ -7742,7 +8304,8 @@ const WORDS = [
         "rea → guilty"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌmɛnz ˈri.ə/"
   },
   {
     "word": "amicus curiae",
@@ -7756,7 +8319,8 @@ const WORDS = [
         "curiae → of the court"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/əˌmaɪ.kəs ˈkjʊər.i.i/"
   },
   {
     "word": "spoliation",
@@ -7770,7 +8334,8 @@ const WORDS = [
         "-ation → act or process of"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌspoʊ.liˈeɪ.ʃən/"
   },
   {
     "word": "subrogation",
@@ -7784,7 +8349,8 @@ const WORDS = [
         "rogare → to ask, to propose"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌsʌb.rəˈɡeɪ.ʃən/"
   },
   {
     "word": "interregnum",
@@ -7798,7 +8364,8 @@ const WORDS = [
         "regnum → reign, kingdom"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌɪn.tərˈrɛɡ.nəm/"
   },
   {
     "word": "attainder",
@@ -7811,7 +8378,8 @@ const WORDS = [
         "ataindre → to reach, to touch, to convict"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/əˈteɪn.dər/"
   },
   {
     "word": "lèse-majesté",
@@ -7825,7 +8393,8 @@ const WORDS = [
         "maiestas → greatness, dignity of authority"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌleɪz ˈmæd.ʒɪ.steɪ/"
   },
   {
     "word": "regicide",
@@ -7839,7 +8408,8 @@ const WORDS = [
         "-cida → killer of"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈrɛdʒ.ɪ.saɪd/"
   },
   {
     "word": "interdict",
@@ -7853,7 +8423,8 @@ const WORDS = [
         "dicere → to say, to speak"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈɪn.tər.dɪkt/"
   },
   {
     "word": "antinomian",
@@ -7867,7 +8438,8 @@ const WORDS = [
         "nomos → law"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌæn.tɪˈnoʊ.mi.ən/"
   },
   {
     "word": "peregrine",
@@ -7881,7 +8453,8 @@ const WORDS = [
         "ager → field, country, land"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈpɛr.ɪ.ɡrɪn/"
   },
   {
     "word": "lucubration",
@@ -7895,7 +8468,8 @@ const WORDS = [
         "lucubrare → to work by lamplight"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌlu.kjʊˈbreɪ.ʃən/"
   },
   {
     "word": "noctilucent",
@@ -7909,7 +8483,8 @@ const WORDS = [
         "lucere → to shine, to give light"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌnɒk.tɪˈlu.sənt/"
   },
   {
     "word": "sidereal",
@@ -7922,7 +8497,8 @@ const WORDS = [
         "sidus → star, constellation"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/saɪˈdɪər.i.əl/"
   },
   {
     "word": "parallax",
@@ -7936,7 +8512,8 @@ const WORDS = [
         "allassein → to change, to alter"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈpær.ə.læks/"
   },
   {
     "word": "apogee",
@@ -7950,7 +8527,8 @@ const WORDS = [
         "ge → earth"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈæp.ə.dʒi/"
   },
   {
     "word": "syzygy",
@@ -7964,7 +8542,8 @@ const WORDS = [
         "zygon → yoke, pair"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈsɪz.ɪ.dʒi/"
   },
   {
     "word": "effulgent",
@@ -7978,7 +8557,8 @@ const WORDS = [
         "fulgere → to flash, to shine"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ɪˈfʌl.dʒənt/"
   },
   {
     "word": "scintillant",
@@ -7992,7 +8572,8 @@ const WORDS = [
         "-ans → present participle suffix"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈsɪn.tɪ.lənt/"
   },
   {
     "word": "phosphorescence",
@@ -8007,7 +8588,8 @@ const WORDS = [
         "-escence → process, gradual emergence"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌfɒs.fəˈrɛs.əns/"
   },
   {
     "word": "fuliginous",
@@ -8021,7 +8603,8 @@ const WORDS = [
         "-osus → full of"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/fjuˈlɪdʒ.ɪ.nəs/"
   },
   {
     "word": "pyrrhic",
@@ -8032,7 +8615,8 @@ const WORDS = [
       "origin": "Named after Pyrrhus, King of Epirus (319–272 BC), whose victories against Rome cost him devastating losses",
       "parts": []
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈpɪr.ɪk/"
   },
   {
     "word": "Sisyphean",
@@ -8043,7 +8627,8 @@ const WORDS = [
       "origin": "From Sisyphus, the king in Greek mythology condemned to roll a boulder uphill for eternity",
       "parts": []
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌsɪs.ɪˈfi.ən/"
   },
   {
     "word": "Promethean",
@@ -8054,7 +8639,8 @@ const WORDS = [
       "origin": "From Prometheus, the Titan in Greek mythology who gave fire to humanity and was punished eternally by Zeus",
       "parts": []
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/prəˈmi.θi.ən/"
   },
   {
     "word": "procrustean",
@@ -8065,7 +8651,8 @@ const WORDS = [
       "origin": "From Procrustes, the giant in Greek mythology who made travelers fit his bed by stretching or cutting them",
       "parts": []
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/proʊˈkrʌs.ti.ən/"
   },
   {
     "word": "effluence",
@@ -8079,7 +8666,8 @@ const WORDS = [
         "fluere → to flow"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈɛf.lu.əns/"
   },
   {
     "word": "talismanic",
@@ -8092,7 +8680,8 @@ const WORDS = [
         "telesma → consecrated object, completion"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌtæl.ɪzˈmæn.ɪk/"
   },
   {
     "word": "thaumaturgist",
@@ -8106,7 +8695,8 @@ const WORDS = [
         "ergon → work, deed"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈθɔ.mə.tɜr.dʒɪst/"
   },
   {
     "word": "epicedium",
@@ -8120,7 +8710,8 @@ const WORDS = [
         "kedos → grief, funeral rites"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌɛp.ɪˈsi.di.əm/"
   },
   {
     "word": "parabasis",
@@ -8134,7 +8725,8 @@ const WORDS = [
         "bainein → to go, to step"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/pəˈræb.ə.sɪs/"
   },
   {
     "word": "mimesis",
@@ -8148,7 +8740,8 @@ const WORDS = [
         "-esis → process or action"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/mɪˈmi.sɪs/"
   },
   {
     "word": "patina",
@@ -8161,7 +8754,8 @@ const WORDS = [
         "patina → shallow dish, pan"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈpæt.ɪ.nə/"
   },
   {
     "word": "provenance",
@@ -8175,7 +8769,8 @@ const WORDS = [
         "venire → to come"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈprɒv.ə.nəns/"
   },
   {
     "word": "palimpsestic",
@@ -8189,7 +8784,8 @@ const WORDS = [
         "psestos → scraped smooth, rubbed clean"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌpæl.ɪmpˈsɛs.tɪk/"
   },
   {
     "word": "stele",
@@ -8202,7 +8798,8 @@ const WORDS = [
         "stele → upright stone, pillar"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈsti.li/"
   },
   {
     "word": "epigraphy",
@@ -8217,7 +8814,8 @@ const WORDS = [
         "-y → study or practice"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ɪˈpɪɡ.rə.fi/"
   },
   {
     "word": "apocrypha",
@@ -8231,7 +8829,8 @@ const WORDS = [
         "kryptein → to hide"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/əˈpɒk.rɪ.fə/"
   },
   {
     "word": "facsimile",
@@ -8245,7 +8844,8 @@ const WORDS = [
         "similis → like, similar"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/fækˈsɪm.ɪ.li/"
   },
   {
     "word": "recto",
@@ -8258,7 +8858,8 @@ const WORDS = [
         "rectus → right, straight"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈrɛk.toʊ/"
   },
   {
     "word": "interlocutor",
@@ -8272,7 +8873,8 @@ const WORDS = [
         "loqui → to speak"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌɪn.tərˈlɒk.jʊ.tər/"
   },
   {
     "word": "disquisition",
@@ -8286,7 +8888,8 @@ const WORDS = [
         "quaerere → to seek, to ask"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˌdɪs.kwɪˈzɪʃ.ən/"
   },
   {
     "word": "festschrift",
@@ -8300,7 +8903,8 @@ const WORDS = [
         "Schrift → writing, script"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈfɛst.ʃrɪft/"
   },
   {
     "word": "Zeitgeist",
@@ -8314,7 +8918,8 @@ const WORDS = [
         "Geist → spirit, mind"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈzaɪt.ɡaɪst/"
   },
   {
     "word": "fernweh",
@@ -8328,7 +8933,8 @@ const WORDS = [
         "Weh → pain, ache, woe"
       ]
     },
-    "tier": 2
+    "tier": 2,
+    "pronunciation": "/ˈfɛrn.veɪ/"
   },
   {
     "word": "vellichor",
@@ -8338,7 +8944,8 @@ const WORDS = [
     "roots": {
       "origin": "Coined by John Koenig in 'The Dictionary of Obscure Sorrows.' Blends 'vellum' (parchment) with a melancholic suffix evoking old things."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈvɛl.ɪ.kɔːr/"
   },
   {
     "word": "ophryons",
@@ -8351,7 +8958,8 @@ const WORDS = [
         "ophrys → eyebrow"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈɒf.ri.ɒnz/"
   },
   {
     "word": "philtrum",
@@ -8365,7 +8973,8 @@ const WORDS = [
         "philtron → love charm"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈfɪl.trəm/"
   },
   {
     "word": "glabella",
@@ -8378,7 +8987,8 @@ const WORDS = [
         "glaber → smooth, hairless"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ɡləˈbɛl.ə/"
   },
   {
     "word": "hallux",
@@ -8391,7 +9001,8 @@ const WORDS = [
         "hallux → big toe"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈhæl.əks/"
   },
   {
     "word": "natiform",
@@ -8405,7 +9016,8 @@ const WORDS = [
         "forma → shape"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈneɪ.tɪ.fɔːrm/"
   },
   {
     "word": "gnathion",
@@ -8418,7 +9030,8 @@ const WORDS = [
         "gnathos → jaw"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈneɪ.θi.ɒn/"
   },
   {
     "word": "tines",
@@ -8431,7 +9044,8 @@ const WORDS = [
         "tind → prong, spike"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/taɪnz/"
   },
   {
     "word": "hilt",
@@ -8444,7 +9058,8 @@ const WORDS = [
         "hilt → handle, grip of a weapon"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/hɪlt/"
   },
   {
     "word": "peen",
@@ -8454,7 +9069,8 @@ const WORDS = [
     "roots": {
       "origin": "Possibly from Scandinavian — Norwegian 'pæna' (to beat thin). Related to Old French 'pane' (head of a hammer)."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/piːn/"
   },
   {
     "word": "tang",
@@ -8467,7 +9083,8 @@ const WORDS = [
         "tangi → point, spike"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/tæŋ/"
   },
   {
     "word": "gimbal",
@@ -8480,7 +9097,8 @@ const WORDS = [
         "gemellus → twin"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈɡɪm.bəl/"
   },
   {
     "word": "bight",
@@ -8493,7 +9111,8 @@ const WORDS = [
         "bugan → to bend, bow"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/baɪt/"
   },
   {
     "word": "ogee",
@@ -8503,7 +9122,8 @@ const WORDS = [
     "roots": {
       "origin": "From 'ogive,' Middle French 'augive' or 'ogive' (a diagonal rib of a vault), of uncertain origin; possibly from Old French 'auge' (trough)."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈoʊ.dʒiː/"
   },
   {
     "word": "lunula",
@@ -8517,7 +9137,8 @@ const WORDS = [
         "-ula → diminutive suffix"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈluː.njʊ.lə/"
   },
   {
     "word": "purlicue",
@@ -8527,7 +9148,8 @@ const WORDS = [
     "roots": {
       "origin": "Scottish and dialectal English; possibly from 'purle' (to ripple, curl) + 'cue' (a queue or tail)."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈpɜːr.lɪ.kjuː/"
   },
   {
     "word": "canthus",
@@ -8540,7 +9162,8 @@ const WORDS = [
         "kanthos → corner of the eye"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈkæn.θəs/"
   },
   {
     "word": "tragus",
@@ -8553,7 +9176,8 @@ const WORDS = [
         "tragos → goat"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈtreɪ.ɡəs/"
   },
   {
     "word": "columella",
@@ -8567,7 +9191,8 @@ const WORDS = [
         "-ella → diminutive suffix"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌkɒl.jʊˈmɛl.ə/"
   },
   {
     "word": "kerf",
@@ -8580,7 +9205,8 @@ const WORDS = [
         "ceorfan → to cut"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/kɜːrf/"
   },
   {
     "word": "selvedge",
@@ -8594,7 +9220,8 @@ const WORDS = [
         "edge → border"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈsɛl.vɪdʒ/"
   },
   {
     "word": "grommet",
@@ -8604,7 +9231,8 @@ const WORDS = [
     "roots": {
       "origin": "From Old French 'gromette' (curb of a bridle), from 'gourmer' (to curb). The nautical sense expanded to mean any reinforcing ring."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈɡrɒm.ɪt/"
   },
   {
     "word": "pawl",
@@ -8614,7 +9242,8 @@ const WORDS = [
     "roots": {
       "origin": "Possibly from Dutch 'pal' (bolt, fastener), or from Low German. Related to Latin 'palus' (stake)."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/pɔːl/"
   },
   {
     "word": "interrobang",
@@ -8628,7 +9257,8 @@ const WORDS = [
         "bang → exclamation mark (printers' slang)"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ɪnˈtɛr.ə.bæŋ/"
   },
   {
     "word": "diastema",
@@ -8642,7 +9272,8 @@ const WORDS = [
         "histanai → to stand"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌdaɪ.əˈstiː.mə/"
   },
   {
     "word": "collywobbles",
@@ -8656,7 +9287,8 @@ const WORDS = [
         "wobble → to shake unsteadily"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈkɒl.i.wɒb.əlz/"
   },
   {
     "word": "borborygmus",
@@ -8669,7 +9301,8 @@ const WORDS = [
         "borboryzein → to rumble (onomatopoeic)"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌbɔːr.bəˈrɪɡ.məs/"
   },
   {
     "word": "aphelion",
@@ -8683,7 +9316,8 @@ const WORDS = [
         "helios → sun"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/æˈfiː.li.ən/"
   },
   {
     "word": "libration",
@@ -8697,7 +9331,8 @@ const WORDS = [
         "librare → to balance"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/laɪˈbreɪ.ʃən/"
   },
   {
     "word": "dysania",
@@ -8711,7 +9346,8 @@ const WORDS = [
         "ana → up, upward"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/dɪˈzeɪ.ni.ə/"
   },
   {
     "word": "clinophilia",
@@ -8725,7 +9361,8 @@ const WORDS = [
         "philia → love"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌklaɪ.nəˈfɪl.i.ə/"
   },
   {
     "word": "somniloquy",
@@ -8739,7 +9376,8 @@ const WORDS = [
         "loqui → to speak"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/sɒmˈnɪl.ə.kwi/"
   },
   {
     "word": "hypnagogia",
@@ -8753,7 +9391,8 @@ const WORDS = [
         "agogos → leading"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌhɪp.nəˈɡoʊ.dʒi.ə/"
   },
   {
     "word": "soporific",
@@ -8767,7 +9406,8 @@ const WORDS = [
         "facere → to make"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌsoʊ.pəˈrɪf.ɪk/"
   },
   {
     "word": "oscitancy",
@@ -8781,7 +9421,8 @@ const WORDS = [
         "citare → to move, agitate"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈɒs.ɪ.tən.si/"
   },
   {
     "word": "pandiculation",
@@ -8794,7 +9435,8 @@ const WORDS = [
         "pandere → to spread, extend"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌpæn.dɪk.jʊˈleɪ.ʃən/"
   },
   {
     "word": "errhine",
@@ -8808,7 +9450,8 @@ const WORDS = [
         "rhis → nose"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈɛr.aɪn/"
   },
   {
     "word": "sternutate",
@@ -8821,7 +9464,8 @@ const WORDS = [
         "sternuere → to sneeze"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈstɜːr.njʊ.teɪt/"
   },
   {
     "word": "singultus",
@@ -8834,7 +9478,8 @@ const WORDS = [
         "singultire → to hiccup, to sob"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/sɪŋˈɡʌl.təs/"
   },
   {
     "word": "eructation",
@@ -8848,7 +9493,8 @@ const WORDS = [
         "ructare → to belch"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌɪr.ʌkˈteɪ.ʃən/"
   },
   {
     "word": "borning",
@@ -8858,7 +9504,8 @@ const WORDS = [
     "roots": {
       "origin": "From 'born' (Middle English 'boren'), past participle of 'bear' (to give birth). New England dialectal usage, 17th–19th century."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈbɔːr.nɪŋ/"
   },
   {
     "word": "gelid",
@@ -8871,7 +9518,8 @@ const WORDS = [
         "gelu → frost, ice"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈdʒɛl.ɪd/"
   },
   {
     "word": "canicular",
@@ -8885,7 +9533,8 @@ const WORDS = [
         "-cula → diminutive suffix"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/kəˈnɪk.jʊ.lər/"
   },
   {
     "word": "pluviophile",
@@ -8899,7 +9548,8 @@ const WORDS = [
         "philos → loving"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈpluː.vi.ə.faɪl/"
   },
   {
     "word": "umbraphile",
@@ -8913,7 +9563,8 @@ const WORDS = [
         "philos → loving"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈʌm.brə.faɪl/"
   },
   {
     "word": "dendrophile",
@@ -8927,7 +9578,8 @@ const WORDS = [
         "philos → loving"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈdɛn.drə.faɪl/"
   },
   {
     "word": "sitophobia",
@@ -8941,7 +9593,8 @@ const WORDS = [
         "phobia → fear"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌsaɪ.təˈfoʊ.bi.ə/"
   },
   {
     "word": "pogonophile",
@@ -8955,7 +9608,8 @@ const WORDS = [
         "philos → loving"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/pəˈɡɒn.ə.faɪl/"
   },
   {
     "word": "pogonotrophy",
@@ -8969,7 +9623,8 @@ const WORDS = [
         "trophē → nourishment, cultivation"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌpɒɡ.əˈnɒt.rə.fi/"
   },
   {
     "word": "alopecia",
@@ -8982,7 +9637,8 @@ const WORDS = [
         "alopex → fox"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌæl.əˈpiː.ʃə/"
   },
   {
     "word": "lanate",
@@ -8995,7 +9651,8 @@ const WORDS = [
         "lana → wool"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈleɪ.neɪt/"
   },
   {
     "word": "velutinous",
@@ -9008,7 +9665,8 @@ const WORDS = [
         "villus → shaggy hair"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/vəˈluː.tɪ.nəs/"
   },
   {
     "word": "tomentose",
@@ -9021,7 +9679,8 @@ const WORDS = [
         "tomentum → stuffing, wool"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈtoʊ.mən.toʊs/"
   },
   {
     "word": "rugose",
@@ -9034,7 +9693,8 @@ const WORDS = [
         "ruga → wrinkle, crease"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈruː.ɡoʊs/"
   },
   {
     "word": "susurrate",
@@ -9047,7 +9707,8 @@ const WORDS = [
         "susurrare → to whisper (onomatopoeic)"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈsuː.sə.reɪt/"
   },
   {
     "word": "sibilate",
@@ -9060,7 +9721,8 @@ const WORDS = [
         "sibilare → to hiss (onomatopoeic)"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈsɪb.ɪ.leɪt/"
   },
   {
     "word": "ululate",
@@ -9073,7 +9735,8 @@ const WORDS = [
         "ululare → to howl (onomatopoeic)"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈʌl.jʊ.leɪt/"
   },
   {
     "word": "cachinnate",
@@ -9086,7 +9749,8 @@ const WORDS = [
         "cachinnare → to laugh loudly (onomatopoeic)"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈkæk.ɪ.neɪt/"
   },
   {
     "word": "nidificate",
@@ -9100,7 +9764,8 @@ const WORDS = [
         "facere → to make"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈnɪd.ɪ.fɪ.keɪt/"
   },
   {
     "word": "ovivorous",
@@ -9114,7 +9779,8 @@ const WORDS = [
         "vorare → to devour"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/oʊˈvɪv.ər.əs/"
   },
   {
     "word": "granivorous",
@@ -9128,7 +9794,8 @@ const WORDS = [
         "vorare → to devour"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ɡrəˈnɪv.ər.əs/"
   },
   {
     "word": "vermivorous",
@@ -9142,7 +9809,8 @@ const WORDS = [
         "vorare → to devour"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/vɜːrˈmɪv.ər.əs/"
   },
   {
     "word": "piscivorous",
@@ -9156,7 +9824,8 @@ const WORDS = [
         "vorare → to devour"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/pɪˈsɪv.ər.əs/"
   },
   {
     "word": "noctivagant",
@@ -9170,7 +9839,8 @@ const WORDS = [
         "vagari → to wander, roam"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/nɒkˈtɪv.ə.ɡənt/"
   },
   {
     "word": "solivagant",
@@ -9184,7 +9854,8 @@ const WORDS = [
         "vagari → to wander"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/soʊˈlɪv.ə.ɡənt/"
   },
   {
     "word": "peregrinate",
@@ -9199,7 +9870,8 @@ const WORDS = [
         "peregre → abroad"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈpɛr.ɪ.ɡrɪ.neɪt/"
   },
   {
     "word": "eloin",
@@ -9212,7 +9884,8 @@ const WORDS = [
         "longe → far, distant"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ɪˈlɔɪn/"
   },
   {
     "word": "maunder",
@@ -9222,7 +9895,8 @@ const WORDS = [
     "roots": {
       "origin": "Perhaps related to 'meander,' from the Meander River in Turkey, known for its winding course; or from 'mander' (to beg)."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈmɔːn.dər/"
   },
   {
     "word": "brabble",
@@ -9235,7 +9909,8 @@ const WORDS = [
         "brabbelen → to jabber, prattle"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈbræb.əl/"
   },
   {
     "word": "foofaraw",
@@ -9245,7 +9920,8 @@ const WORDS = [
     "roots": {
       "origin": "American English, possibly from Spanish 'fanfarrón' (braggart, show-off) or from French 'fanfreluche' (trifle, bauble)."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈfuː.fə.rɔː/"
   },
   {
     "word": "kerfuffle",
@@ -9255,7 +9931,8 @@ const WORDS = [
     "roots": {
       "origin": "Scottish 'curfuffle' (disorder, agitation), from 'cur-' (wrong, twisted) + 'fuffle' (to disarrange). Entered mainstream British English in the 20th century."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/kərˈfʌf.əl/"
   },
   {
     "word": "scutter",
@@ -9265,7 +9942,8 @@ const WORDS = [
     "roots": {
       "origin": "Dialectal variant of 'scuttle,' probably from Low German 'schuddern' (to shudder, shake), influenced by 'scatter.'"
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈskʌt.ər/"
   },
   {
     "word": "scurry",
@@ -9275,7 +9953,8 @@ const WORDS = [
     "roots": {
       "origin": "Shortening of 'hurry-scurry,' a reduplication of 'hurry.' Also related to dialectal 'skirr' (to move rapidly with a whirring sound)."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈskɜːr.i/"
   },
   {
     "word": "quop",
@@ -9285,7 +9964,8 @@ const WORDS = [
     "roots": {
       "origin": "Old English dialectal; a direct, expressive formation for the sensation of rhythmic throbbing pain."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/kwɒp/"
   },
   {
     "word": "snudge",
@@ -9295,7 +9975,8 @@ const WORDS = [
     "roots": {
       "origin": "16th-century English dialectal word, possibly related to 'snug' (comfortable, sheltered). Used in early modern English texts."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/snʌdʒ/"
   },
   {
     "word": "twattle",
@@ -9305,7 +9986,8 @@ const WORDS = [
     "roots": {
       "origin": "16th-century English; probably a variant of 'tattle' (to gossip, chatter), influenced by 'twit.'"
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈtwɒt.əl/"
   },
   {
     "word": "pingle",
@@ -9315,7 +9997,8 @@ const WORDS = [
     "roots": {
       "origin": "Northern English and Scottish dialect, possibly related to 'prig' (to trifle) or 'pinch.'"
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈpɪŋ.ɡəl/"
   },
   {
     "word": "cark",
@@ -9328,7 +10011,8 @@ const WORDS = [
         "carricare → to load, burden"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/kɑːrk/"
   },
   {
     "word": "frabble",
@@ -9338,7 +10022,8 @@ const WORDS = [
     "roots": {
       "origin": "18th-century dialectal English; related to 'brabble' and 'squabble,' all denoting petty argument."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈfræb.əl/"
   },
   {
     "word": "groke",
@@ -9348,7 +10033,8 @@ const WORDS = [
     "roots": {
       "origin": "Scottish dialectal word; of uncertain origin, possibly onomatopoeic of a longing whimper."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ɡroʊk/"
   },
   {
     "word": "rawgabbit",
@@ -9358,7 +10044,8 @@ const WORDS = [
     "roots": {
       "origin": "Scottish dialectal term, origin uncertain. Possibly related to 'raw' (inexperienced) + 'gabbit' (one who gabbles or speaks freely)."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈrɔː.ɡæb.ɪt/"
   },
   {
     "word": "brontide",
@@ -9371,7 +10058,8 @@ const WORDS = [
         "bronte → thunder"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈbrɒn.taɪd/"
   },
   {
     "word": "thalassophile",
@@ -9385,7 +10073,8 @@ const WORDS = [
         "philos → loving"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/θəˈlæs.ə.faɪl/"
   },
   {
     "word": "thalassophobia",
@@ -9399,7 +10088,8 @@ const WORDS = [
         "phobos → fear"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/θəˌlæs.əˈfoʊ.bi.ə/"
   },
   {
     "word": "nyctophilia",
@@ -9413,7 +10103,8 @@ const WORDS = [
         "philia → love"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌnɪk.təˈfɪl.i.ə/"
   },
   {
     "word": "eosophobia",
@@ -9427,7 +10118,8 @@ const WORDS = [
         "phobos → fear"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌiː.ə.səˈfoʊ.bi.ə/"
   },
   {
     "word": "selachophobia",
@@ -9441,7 +10133,8 @@ const WORDS = [
         "phobos → fear"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/səˌlæk.əˈfoʊ.bi.ə/"
   },
   {
     "word": "pogonophobia",
@@ -9455,7 +10148,8 @@ const WORDS = [
         "phobos → fear"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/pəˌɡɒn.əˈfoʊ.bi.ə/"
   },
   {
     "word": "gymnophobia",
@@ -9469,7 +10163,8 @@ const WORDS = [
         "phobos → fear"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌdʒɪm.nəˈfoʊ.bi.ə/"
   },
   {
     "word": "eroteme",
@@ -9482,7 +10177,8 @@ const WORDS = [
         "erotaein → to ask, question"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈɛr.ə.tiːm/"
   },
   {
     "word": "solidus",
@@ -9495,7 +10191,8 @@ const WORDS = [
         "solidus → solid, firm; also a gold coin"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈsɒl.ɪ.dəs/"
   },
   {
     "word": "pilcrow",
@@ -9505,7 +10202,8 @@ const WORDS = [
     "roots": {
       "origin": "Corrupted from Old French 'pelagraphe,' a mangling of 'paragraph.' The sign itself evolved from a 'C' for 'capitulum' (chapter)."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈpɪl.kroʊ/"
   },
   {
     "word": "manicule",
@@ -9519,7 +10217,8 @@ const WORDS = [
         "-cula → diminutive suffix"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈmæn.ɪ.kjuːl/"
   },
   {
     "word": "diple",
@@ -9532,7 +10231,8 @@ const WORDS = [
         "diploos → double"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈdɪp.li/"
   },
   {
     "word": "anastomosis",
@@ -9546,7 +10246,8 @@ const WORDS = [
         "stoma → mouth, opening"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/əˌnæs.təˈmoʊ.sɪs/"
   },
   {
     "word": "arborescent",
@@ -9559,7 +10260,8 @@ const WORDS = [
         "arbor → tree"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌɑːr.bəˈrɛs.ənt/"
   },
   {
     "word": "dendritic",
@@ -9572,7 +10274,8 @@ const WORDS = [
         "dendron → tree"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/dɛnˈdrɪt.ɪk/"
   },
   {
     "word": "lacunose",
@@ -9585,7 +10288,8 @@ const WORDS = [
         "lacuna → hole, gap, pool"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈlæk.jʊ.noʊs/"
   },
   {
     "word": "fulvous",
@@ -9598,7 +10302,8 @@ const WORDS = [
         "fulvus → tawny, golden-brown"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈfʌl.vəs/"
   },
   {
     "word": "xanthic",
@@ -9611,7 +10316,8 @@ const WORDS = [
         "xanthos → yellow, golden"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈzæn.θɪk/"
   },
   {
     "word": "glaucous",
@@ -9624,7 +10330,8 @@ const WORDS = [
         "glaukos → gleaming, gray-green"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈɡlɔː.kəs/"
   },
   {
     "word": "caesious",
@@ -9637,7 +10344,8 @@ const WORDS = [
         "caesius → blue-gray, sky-colored"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈsiː.zi.əs/"
   },
   {
     "word": "puce",
@@ -9650,7 +10358,8 @@ const WORDS = [
         "pulex → flea"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/pjuːs/"
   },
   {
     "word": "taupe",
@@ -9663,7 +10372,8 @@ const WORDS = [
         "talpa → mole (the animal)"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/toʊp/"
   },
   {
     "word": "gamboge",
@@ -9676,7 +10386,8 @@ const WORDS = [
         "Gamboge → Cambodia (historical name)"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ɡæmˈboʊdʒ/"
   },
   {
     "word": "woad",
@@ -9686,7 +10397,8 @@ const WORDS = [
     "roots": {
       "origin": "Old English 'wad,' from a Germanic root; related to Old High German 'weit,' Dutch 'wede.' All refer to the plant Isatis tinctoria."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/woʊd/"
   },
   {
     "word": "murrey",
@@ -9699,7 +10411,8 @@ const WORDS = [
         "morum → mulberry"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈmɜːr.i/"
   },
   {
     "word": "amaranthine",
@@ -9713,7 +10426,8 @@ const WORDS = [
         "marainein → to wither, fade"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌæm.əˈræn.θɪn/"
   },
   {
     "word": "porphyry",
@@ -9726,7 +10440,8 @@ const WORDS = [
         "porphyra → purple"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈpɔːr.fɪ.ri/"
   },
   {
     "word": "electrum",
@@ -9739,7 +10454,8 @@ const WORDS = [
         "elektron → amber; gold-silver alloy"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ɪˈlɛk.trəm/"
   },
   {
     "word": "byssus",
@@ -9752,7 +10468,8 @@ const WORDS = [
         "byssos → fine linen, fine flax"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈbɪs.əs/"
   },
   {
     "word": "nugacious",
@@ -9765,7 +10482,8 @@ const WORDS = [
         "nugae → trifles, nonsense"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/njuːˈɡeɪ.ʃəs/"
   },
   {
     "word": "quondam",
@@ -9778,7 +10496,8 @@ const WORDS = [
         "quom → when, at which time"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈkwɒn.dæm/"
   },
   {
     "word": "nidus",
@@ -9791,7 +10510,8 @@ const WORDS = [
         "nidus → nest"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈnaɪ.dəs/"
   },
   {
     "word": "velitation",
@@ -9804,7 +10524,8 @@ const WORDS = [
         "velites → light skirmishers"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌvɛl.ɪˈteɪ.ʃən/"
   },
   {
     "word": "ruction",
@@ -9814,7 +10535,8 @@ const WORDS = [
     "roots": {
       "origin": "Irish-English, possibly a shortening of 'insurrection' or an alteration of 'rumpus.' In widespread use by the 19th century."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈrʌk.ʃən/"
   },
   {
     "word": "rannygazoo",
@@ -9824,7 +10546,8 @@ const WORDS = [
     "roots": {
       "origin": "American English slang of uncertain origin, early 20th century. Possibly from Irish-American dialect."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌræn.iˈɡæ.zuː/"
   },
   {
     "word": "flibbertigibbet",
@@ -9834,7 +10557,8 @@ const WORDS = [
     "roots": {
       "origin": "Late Middle English; a fanciful coinage imitating rapid, careless speech. Used by Shakespeare in 'King Lear' as the name of a devil."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈflɪb.ər.ti.dʒɪb.ɪt/"
   },
   {
     "word": "mumpsimus",
@@ -9844,7 +10568,8 @@ const WORDS = [
     "roots": {
       "origin": "From a story of an illiterate English priest who misread 'quod in ore sumpsimus' as 'quod in ore mumpsimus' in the Latin Mass and refused to be corrected."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈmʌmp.sɪ.məs/"
   },
   {
     "word": "mome",
@@ -9854,7 +10579,8 @@ const WORDS = [
     "roots": {
       "origin": "16th-century English, of uncertain origin; possibly from Old French 'momon' (a grimace) or related to 'mum' (silent, dumb). Used by Shakespeare in 'The Comedy of Errors.'"
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/moʊm/"
   },
   {
     "word": "fussock",
@@ -9864,7 +10590,8 @@ const WORDS = [
     "roots": {
       "origin": "17th-century English dialect, possibly from 'fuss' (to fidget, to be nervously busy) or from a Low German cognate."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈfʌs.ək/"
   },
   {
     "word": "lollygag",
@@ -9874,7 +10601,8 @@ const WORDS = [
     "roots": {
       "origin": "19th-century American slang of unknown origin; possibly related to 'loll' (to laze about) + a whimsical suffix."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈlɒl.i.ɡæɡ/"
   },
   {
     "word": "taradiddle",
@@ -9884,7 +10612,8 @@ const WORDS = [
     "roots": {
       "origin": "18th-century British slang; a fanciful formation, possibly from 'diddle' (to cheat, swindle) with an elaborating prefix."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈtær.ə.dɪd.əl/"
   },
   {
     "word": "blatherskite",
@@ -9898,7 +10627,8 @@ const WORDS = [
         "skite → a despicable person"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈblæð.ər.skaɪt/"
   },
   {
     "word": "flapdoodle",
@@ -9908,7 +10638,8 @@ const WORDS = [
     "roots": {
       "origin": "19th-century American English; a colorful expression of uncertain etymology. First recorded around 1833."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈflæp.duː.dəl/"
   },
   {
     "word": "scobberlotcher",
@@ -9918,7 +10649,8 @@ const WORDS = [
     "roots": {
       "origin": "19th-century British slang; possibly derived from dialect words for scraping or loafing, with an elaborated suffix."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈskɒb.ər.lɒtʃ.ər/"
   },
   {
     "word": "slugabed",
@@ -9932,7 +10664,8 @@ const WORDS = [
         "abed → in bed"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈslʌɡ.ə.bɛd/"
   },
   {
     "word": "maffick",
@@ -9942,7 +10675,8 @@ const WORDS = [
     "roots": {
       "origin": "Back-formation from 'Mafeking,' a town in South Africa. When the siege of Mafeking was lifted in 1900, London celebrated so uproariously the word became a verb."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈmæf.ɪk/"
   },
   {
     "word": "bowdlerize",
@@ -9952,7 +10686,8 @@ const WORDS = [
     "roots": {
       "origin": "Eponymous: from Thomas Bowdler (1754–1825), who published a sanitized 'Family Shakespeare' removing passages he deemed unsuitable for women and children."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈboʊd.lər.aɪz/"
   },
   {
     "word": "borborygmophilia",
@@ -9966,7 +10701,8 @@ const WORDS = [
         "philia → love"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌbɔːr.bə.rɪɡˌmoʊˈfɪl.i.ə/"
   },
   {
     "word": "crurophilia",
@@ -9980,7 +10716,8 @@ const WORDS = [
         "philia → love"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌkrʊər.əˈfɪl.i.ə/"
   },
   {
     "word": "ptyalism",
@@ -9994,7 +10731,8 @@ const WORDS = [
         "ptyein → to spit"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈtaɪ.ə.lɪz.əm/"
   },
   {
     "word": "onychophagia",
@@ -10008,7 +10746,8 @@ const WORDS = [
         "phagein → to eat"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌɒn.ɪ.kəˈfeɪ.dʒi.ə/"
   },
   {
     "word": "trichotillomania",
@@ -10023,7 +10762,8 @@ const WORDS = [
         "mania → obsession"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌtrɪk.ə.tɪl.əˈmeɪ.ni.ə/"
   },
   {
     "word": "dermatographia",
@@ -10037,7 +10777,8 @@ const WORDS = [
         "graphein → to write"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌdɜr.mə.toʊˈɡræf.i.ə/"
   },
   {
     "word": "misocainea",
@@ -10051,7 +10792,8 @@ const WORDS = [
         "kainos → new, recent"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌmɪs.oʊˈkeɪ.ni.ə/"
   },
   {
     "word": "neophilia",
@@ -10065,7 +10807,8 @@ const WORDS = [
         "philia → love"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌni.oʊˈfɪl.i.ə/"
   },
   {
     "word": "autophobia",
@@ -10079,7 +10822,8 @@ const WORDS = [
         "phobos → fear"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌɔ.toʊˈfoʊ.bi.ə/"
   },
   {
     "word": "phasmophobia",
@@ -10093,7 +10837,8 @@ const WORDS = [
         "phobos → fear"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌfæz.moʊˈfoʊ.bi.ə/"
   },
   {
     "word": "epistemophilia",
@@ -10107,7 +10852,8 @@ const WORDS = [
         "philia → love"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ɪˌpɪs.tə.moʊˈfɪl.i.ə/"
   },
   {
     "word": "toska",
@@ -10117,7 +10863,8 @@ const WORDS = [
     "roots": {
       "origin": "Russian 'тоска' (toska) — an untranslatable concept of existential longing. Vladimir Nabokov called it 'at its deepest and most painful, a mental turmoil.'"
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈtɔs.kə/"
   },
   {
     "word": "weltschmerz",
@@ -10131,7 +10878,8 @@ const WORDS = [
         "Schmerz → pain, grief"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈvɛlt.ʃmɛrts/"
   },
   {
     "word": "dépaysement",
@@ -10145,7 +10893,8 @@ const WORDS = [
         "pays → country, homeland"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/deɪˌpeɪ.zəˈmɑ̃/"
   },
   {
     "word": "lacrimoso",
@@ -10158,7 +10907,8 @@ const WORDS = [
         "lacrima → tear"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌlæk.rɪˈmoʊ.soʊ/"
   },
   {
     "word": "bravura",
@@ -10171,7 +10921,8 @@ const WORDS = [
         "bravo → bold, brave"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/brəˈvjʊr.ə/"
   },
   {
     "word": "sforzando",
@@ -10184,7 +10935,8 @@ const WORDS = [
         "forza → force, strength"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/sfɔrˈtsɑn.doʊ/"
   },
   {
     "word": "leitmotif",
@@ -10198,7 +10950,8 @@ const WORDS = [
         "Motiv → theme, motif"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈlaɪt.moʊˌtif/"
   },
   {
     "word": "spoonerism",
@@ -10208,7 +10961,8 @@ const WORDS = [
     "roots": {
       "origin": "Eponymous: named after Reverend William Archibald Spooner (1844–1930), Warden of New College Oxford, who was famous for making such mistakes."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈspu.nər.ɪz.əm/"
   },
   {
     "word": "malapropism",
@@ -10222,7 +10976,8 @@ const WORDS = [
         "à propos → to the purpose, appropriate"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈmæl.ə.prɒp.ɪz.əm/"
   },
   {
     "word": "eggcorn",
@@ -10232,7 +10987,8 @@ const WORDS = [
     "roots": {
       "origin": "Coined in 2003 by linguist Geoffrey Pullum after linguist Mark Liberman documented someone writing 'eggcorn' for 'acorn' — which does, after all, resemble a tiny egg."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈɛɡ.kɔrn/"
   },
   {
     "word": "acnestis",
@@ -10246,7 +11002,8 @@ const WORDS = [
         "knaein → to scratch"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ækˈnɛs.tɪs/"
   },
   {
     "word": "dactylion",
@@ -10259,7 +11016,8 @@ const WORDS = [
         "daktylos → finger"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/dækˈtɪl.i.ɒn/"
   },
   {
     "word": "nuchiform",
@@ -10273,7 +11031,8 @@ const WORDS = [
         "forma → shape, form"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈnju.kɪ.fɔrm/"
   },
   {
     "word": "emarginate",
@@ -10287,7 +11046,8 @@ const WORDS = [
         "margo → edge, margin, border"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ɪˈmɑr.dʒɪ.nɪt/"
   },
   {
     "word": "rodomontade",
@@ -10297,7 +11057,8 @@ const WORDS = [
     "roots": {
       "origin": "From 'Rodomonte,' the boastful Saracen king in Ariosto's 'Orlando Furioso' (1516), whose name became synonymous with blustering pride."
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌrɒd.ə.mɒnˈteɪd/"
   },
   {
     "word": "fanfaronade",
@@ -10310,7 +11071,8 @@ const WORDS = [
         "fanfarrón → braggart, blusterer"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌfæn.fær.əˈneɪd/"
   },
   {
     "word": "ergophobia",
@@ -10324,7 +11086,8 @@ const WORDS = [
         "phobos → fear"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌɜr.ɡoʊˈfoʊ.bi.ə/"
   },
   {
     "word": "horripilation",
@@ -10338,7 +11101,8 @@ const WORDS = [
         "pilus → hair"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/hɒˌrɪp.ɪˈleɪ.ʃən/"
   },
   {
     "word": "frisson",
@@ -10351,7 +11115,8 @@ const WORDS = [
         "frigere → to be cold, to shiver"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/friˈsɒn/"
   },
   {
     "word": "jouissance",
@@ -10364,7 +11129,8 @@ const WORDS = [
         "gaudere → to rejoice, be glad"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈʒwi.sɑns/"
   },
   {
     "word": "pettifogging",
@@ -10378,7 +11144,8 @@ const WORDS = [
         "fogger → unscrupulous dealer"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈpɛt.i.fɒɡ.ɪŋ/"
   },
   {
     "word": "cacoepy",
@@ -10392,7 +11159,8 @@ const WORDS = [
         "epos → word, speech"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/kæˈkoʊ.ə.pi/"
   },
   {
     "word": "presque vu",
@@ -10406,7 +11174,8 @@ const WORDS = [
         "vu → seen"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌprɛsk ˈvu/"
   },
   {
     "word": "opisthograph",
@@ -10420,7 +11189,8 @@ const WORDS = [
         "graphein → to write"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/əˈpɪs.θə.ɡræf/"
   },
   {
     "word": "scriptio continua",
@@ -10434,7 +11204,8 @@ const WORDS = [
         "continua → continuous, unbroken"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈskrɪp.ti.oʊ kənˈtɪn.ju.ə/"
   },
   {
     "word": "errata",
@@ -10447,7 +11218,8 @@ const WORDS = [
         "errare → to wander, to err, to be wrong"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ɪˈrɑ.tə/"
   },
   {
     "word": "incunabulum",
@@ -10461,7 +11233,8 @@ const WORDS = [
         "cunae → cradle"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌɪŋ.kjʊˈnæb.jʊ.ləm/"
   },
   {
     "word": "serein",
@@ -10474,7 +11247,8 @@ const WORDS = [
         "serenus → clear, serene"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/səˈrɛ̃/"
   },
   {
     "word": "cataglottism",
@@ -10488,7 +11262,8 @@ const WORDS = [
         "glotta → tongue"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌkæt.əˈɡlɒt.ɪz.əm/"
   },
   {
     "word": "graupel",
@@ -10501,7 +11276,8 @@ const WORDS = [
         "Graupe → hulled grain, pearl barley"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈɡraʊ.pəl/"
   },
   {
     "word": "mammatus",
@@ -10514,7 +11290,8 @@ const WORDS = [
         "mamma → breast, udder"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/məˈmeɪ.təs/"
   },
   {
     "word": "frazil",
@@ -10527,7 +11304,8 @@ const WORDS = [
         "frasil → cinder, ash"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈfreɪ.zɪl/"
   },
   {
     "word": "haboob",
@@ -10540,7 +11318,8 @@ const WORDS = [
         "habub → blowing furiously"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/həˈbuːb/"
   },
   {
     "word": "gelotophobia",
@@ -10554,7 +11333,8 @@ const WORDS = [
         "phobos → fear"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌdʒɛl.ə.toʊˈfoʊ.bi.ə/"
   },
   {
     "word": "chorophobia",
@@ -10568,7 +11348,8 @@ const WORDS = [
         "phobos → fear"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌkɔr.oʊˈfoʊ.bi.ə/"
   },
   {
     "word": "catoptrophobia",
@@ -10584,7 +11365,8 @@ const WORDS = [
         "phobos → fear"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/kəˌtɒp.troʊˈfoʊ.bi.ə/"
   },
   {
     "word": "athazagoraphobia",
@@ -10598,7 +11380,8 @@ const WORDS = [
         "phobos → fear"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/əˌθæz.ə.ɡɔr.əˈfoʊ.bi.ə/"
   },
   {
     "word": "somniphobia",
@@ -10612,7 +11395,8 @@ const WORDS = [
         "phobos → fear"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌsɒm.nɪˈfoʊ.bi.ə/"
   },
   {
     "word": "trypophobia",
@@ -10626,7 +11410,8 @@ const WORDS = [
         "phobos → fear"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌtrɪp.oʊˈfoʊ.bi.ə/"
   },
   {
     "word": "phobophobia",
@@ -10639,7 +11424,8 @@ const WORDS = [
         "phobos → fear"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌfoʊ.boʊˈfoʊ.bi.ə/"
   },
   {
     "word": "cacchination",
@@ -10652,7 +11438,8 @@ const WORDS = [
         "cachinnare → to laugh loudly, immoderately"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌkæk.ɪˈneɪ.ʃən/"
   },
   {
     "word": "risibility",
@@ -10666,7 +11453,8 @@ const WORDS = [
         "risus → laughter"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌrɪz.ɪˈbɪl.ɪ.ti/"
   },
   {
     "word": "fleer",
@@ -10679,7 +11467,8 @@ const WORDS = [
         "flira → to grin, snicker"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/flɪr/"
   },
   {
     "word": "quiritation",
@@ -10692,7 +11481,8 @@ const WORDS = [
         "quiritare → to cry out, wail"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌkwɪr.ɪˈteɪ.ʃən/"
   },
   {
     "word": "eiron",
@@ -10706,7 +11496,8 @@ const WORDS = [
         "eiron → dissembler, self-deprecator"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈaɪ.rɒn/"
   },
   {
     "word": "plenilune",
@@ -10720,7 +11511,8 @@ const WORDS = [
         "luna → moon"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈplɛn.ɪ.luːn/"
   },
   {
     "word": "vespertine",
@@ -10733,7 +11525,8 @@ const WORDS = [
         "vesper → evening, evening star"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈvɛs.pər.tɪn/"
   },
   {
     "word": "noctiluca",
@@ -10747,7 +11540,8 @@ const WORDS = [
         "lux → light"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌnɒk.tɪˈluː.kə/"
   },
   {
     "word": "matutinal",
@@ -10761,7 +11555,8 @@ const WORDS = [
         "mane → morning"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/məˈtjuː.tɪ.nəl/"
   },
   {
     "word": "hebdomadal",
@@ -10775,7 +11570,8 @@ const WORDS = [
         "hebdomas → group of seven, week"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/hɛbˈdɒm.ə.dəl/"
   },
   {
     "word": "interlunar",
@@ -10789,7 +11585,8 @@ const WORDS = [
         "luna → moon"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌɪn.tərˈluː.nər/"
   },
   {
     "word": "solstitial",
@@ -10803,7 +11600,8 @@ const WORDS = [
         "sistere → to stand still"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/sɒlˈstɪʃ.əl/"
   },
   {
     "word": "flong",
@@ -10816,7 +11614,8 @@ const WORDS = [
         "flan → mold, flat disc"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/flɒŋ/"
   },
   {
     "word": "quire",
@@ -10830,7 +11629,8 @@ const WORDS = [
         "quaternio → group of four"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈkwaɪər/"
   },
   {
     "word": "bastard title",
@@ -10841,7 +11641,8 @@ const WORDS = [
       "origin": "In bookmaking terminology, 'bastard' has long meant something irregular or abbreviated. The bastard title is a shortened, preliminary version of the true title.",
       "parts": []
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈbæs.tərd ˈtaɪ.təl/"
   },
   {
     "word": "catchword",
@@ -10855,7 +11656,8 @@ const WORDS = [
         "word → word"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈkætʃ.wɜrd/"
   },
   {
     "word": "compositor",
@@ -10870,7 +11672,8 @@ const WORDS = [
         "ponere → to place"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/kəmˈpɒz.ɪ.tər/"
   },
   {
     "word": "duodecimo",
@@ -10885,7 +11688,8 @@ const WORDS = [
         "duodecimus → twelfth"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌduː.oʊˈdɛs.ɪ.moʊ/"
   },
   {
     "word": "justify",
@@ -10899,7 +11703,8 @@ const WORDS = [
         "facere → to make"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈdʒʌs.tɪ.faɪ/"
   },
   {
     "word": "gutter",
@@ -10913,7 +11718,8 @@ const WORDS = [
         "goutiere → channel, gutter"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈɡʌt.ər/"
   },
   {
     "word": "binnacle",
@@ -10927,7 +11733,8 @@ const WORDS = [
         "habitare → to dwell"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈbɪn.ə.kəl/"
   },
   {
     "word": "kedge",
@@ -10938,7 +11745,8 @@ const WORDS = [
       "origin": "Origin uncertain; possibly from Middle English 'caggen' (to tie, fasten). Nautical usage appears by the 15th century. A kedge anchor is a light anchor used for this purpose.",
       "parts": []
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/kɛdʒ/"
   },
   {
     "word": "athwart",
@@ -10951,7 +11759,8 @@ const WORDS = [
         "þverr → transverse, across"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/əˈθwɔrt/"
   },
   {
     "word": "leeway",
@@ -10965,7 +11774,8 @@ const WORDS = [
         "way → movement, direction"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈliː.weɪ/"
   },
   {
     "word": "scuttlebutt",
@@ -10979,7 +11789,8 @@ const WORDS = [
         "butt → barrel, cask"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈskʌt.əl.bʌt/"
   },
   {
     "word": "fathom",
@@ -10992,7 +11803,8 @@ const WORDS = [
         "fæthm → outstretched arms, embrace"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈfæð.əm/"
   },
   {
     "word": "doldrums",
@@ -11005,7 +11817,8 @@ const WORDS = [
         "dull → sluggish, inactive"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈdoʊl.drəmz/"
   },
   {
     "word": "ceilidh",
@@ -11018,7 +11831,8 @@ const WORDS = [
         "céile → companion, partner"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈkeɪ.li/"
   },
   {
     "word": "blether",
@@ -11032,7 +11846,8 @@ const WORDS = [
         "bladhr → nonsense"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈblɛð.ər/"
   },
   {
     "word": "drouth",
@@ -11046,7 +11861,8 @@ const WORDS = [
         "dreogan → to suffer, endure"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/draʊθ/"
   },
   {
     "word": "thole",
@@ -11059,7 +11875,8 @@ const WORDS = [
         "þolian → to bear, endure"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/θoʊl/"
   },
   {
     "word": "scunner",
@@ -11070,7 +11887,8 @@ const WORDS = [
       "origin": "Middle English 'skunner' (to shrink back with disgust), of uncertain origin, possibly Scandinavian. Widespread in Scottish English to denote visceral revulsion.",
       "parts": []
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈskʌn.ər/"
   },
   {
     "word": "braw",
@@ -11083,7 +11901,8 @@ const WORDS = [
         "brave → bold, fine, excellent"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/brɔː/"
   },
   {
     "word": "cwtch",
@@ -11097,7 +11916,8 @@ const WORDS = [
         "couche → a bed, resting place"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/kʊtʃ/"
   },
   {
     "word": "craic",
@@ -11110,7 +11930,8 @@ const WORDS = [
         "crack → lively talk, fun"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/kræk/"
   },
   {
     "word": "shebeen",
@@ -11123,7 +11944,8 @@ const WORDS = [
         "sibín → small mug, illicit drink"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ʃɪˈbiːn/"
   },
   {
     "word": "feculent",
@@ -11136,7 +11958,8 @@ const WORDS = [
         "faex → dregs, sediment, filth"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈfɛk.jʊ.lənt/"
   },
   {
     "word": "fumet",
@@ -11150,7 +11973,8 @@ const WORDS = [
         "fumus → smoke, fume"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/fjuːˈmɛt/"
   },
   {
     "word": "chiffonade",
@@ -11164,7 +11988,8 @@ const WORDS = [
         "chiffe → flimsy cloth"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌʃɪf.əˈnɑːd/"
   },
   {
     "word": "suet",
@@ -11177,7 +12002,8 @@ const WORDS = [
         "sebum → tallow, grease"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈsuː.ɪt/"
   },
   {
     "word": "spatchcock",
@@ -11191,7 +12017,8 @@ const WORDS = [
         "cock → rooster, bird"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈspætʃ.kɒk/"
   },
   {
     "word": "mirepoix",
@@ -11202,7 +12029,8 @@ const WORDS = [
       "origin": "Named for the Duc de Lévis-Mirepoix, an 18th-century French marshal whose chef is said to have created the technique. The word is purely a proper name that became a culinary term.",
       "parts": []
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌmɪr.əˈpwɑː/"
   },
   {
     "word": "lardon",
@@ -11215,7 +12043,8 @@ const WORDS = [
         "lardum → fat, lard"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈlɑːr.dɒn/"
   },
   {
     "word": "squinch",
@@ -11226,7 +12055,8 @@ const WORDS = [
       "origin": "Variant of 'scunch' or 'sconcheon', from Old French 'escoinson' (interior corner of a wall opening). A term of purely architectural specificity.",
       "parts": []
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/skwɪntʃ/"
   },
   {
     "word": "pilaster",
@@ -11239,7 +12069,8 @@ const WORDS = [
         "pila → pillar, pier"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/pɪˈlæs.tər/"
   },
   {
     "word": "dentil",
@@ -11253,7 +12084,8 @@ const WORDS = [
         "dentis → of a tooth"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈdɛn.tɪl/"
   },
   {
     "word": "transom",
@@ -11267,7 +12099,8 @@ const WORDS = [
         "transtrum → crossbeam"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈtræn.səm/"
   },
   {
     "word": "laitance",
@@ -11281,7 +12114,8 @@ const WORDS = [
         "lait → milk"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈleɪ.tɑːns/"
   },
   {
     "word": "sneck",
@@ -11292,7 +12126,8 @@ const WORDS = [
       "origin": "Middle English 'sneck', of Scandinavian origin; compare Norwegian 'snekke' (latch). The dual meaning (latch and small stone) reflects the word's versatility in craft contexts.",
       "parts": []
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/snɛk/"
   },
   {
     "word": "fipple",
@@ -11303,7 +12138,8 @@ const WORDS = [
       "origin": "Of uncertain origin; first appears in the 17th century in English. Possibly related to Low German or Dutch words for a peg or plug. The fipple is the device that makes a recorder a recorder.",
       "parts": []
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈfɪp.əl/"
   },
   {
     "word": "wattle",
@@ -11316,7 +12152,8 @@ const WORDS = [
         "watul → rod, twig, woven frame"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈwɒt.əl/"
   },
   {
     "word": "gormless",
@@ -11330,7 +12167,8 @@ const WORDS = [
         "-less → without"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈɡɔːrm.ləs/"
   },
   {
     "word": "fustilarian",
@@ -11343,7 +12181,8 @@ const WORDS = [
         "fust → musty, mouldy smell"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌfʌs.tɪˈlɛər.i.ən/"
   },
   {
     "word": "pillock",
@@ -11357,7 +12196,8 @@ const WORDS = [
         "-ock → diminutive suffix"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈpɪl.ək/"
   },
   {
     "word": "pettifogger",
@@ -11371,7 +12211,8 @@ const WORDS = [
         "fogger → huckster, sharp dealer"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈpɛt.i.fɒɡ.ər/"
   },
   {
     "word": "mooncalf",
@@ -11385,7 +12226,8 @@ const WORDS = [
         "calf → young bovine, simpleton"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈmuːn.kæf/"
   },
   {
     "word": "loblolly",
@@ -11399,7 +12241,8 @@ const WORDS = [
         "lolly → liquid, broth"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈlɒb.lɒl.i/"
   },
   {
     "word": "whiffler",
@@ -11412,7 +12255,8 @@ const WORDS = [
         "whiffle → to shift, veer, evade"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈwɪf.lər/"
   },
   {
     "word": "jobbernowl",
@@ -11425,7 +12269,8 @@ const WORDS = [
         "nowl → top of the head, noll"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈdʒɒb.ər.noʊl/"
   },
   {
     "word": "hobbledehoy",
@@ -11436,7 +12281,8 @@ const WORDS = [
       "origin": "Origin obscure; first appears in the 16th century. Possibly a rhyming compound based on 'hobble.' The word perfectly captures the stumbling ungainliness of adolescence.",
       "parts": []
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈhɒb.əl.dɪˌhɔɪ/"
   },
   {
     "word": "dandiprat",
@@ -11450,7 +12296,8 @@ const WORDS = [
         "prat → a small thing, buttocks"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈdæn.dɪ.præt/"
   },
   {
     "word": "popinjay",
@@ -11464,7 +12311,8 @@ const WORDS = [
         "babbaghā → parrot"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈpɒp.ɪn.dʒeɪ/"
   },
   {
     "word": "coxcomb",
@@ -11478,7 +12326,8 @@ const WORDS = [
         "comb → crest, fleshy ridge"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈkɒks.koʊm/"
   },
   {
     "word": "farouche",
@@ -11492,7 +12341,8 @@ const WORDS = [
         "forasticus → from outside"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/fəˈruːʃ/"
   },
   {
     "word": "frowst",
@@ -11503,7 +12353,8 @@ const WORDS = [
       "origin": "Possibly from 'frowzy' (musty, unpleasant-smelling), itself of uncertain origin. A distinctly British word for the particular staleness of overheated, unventilated spaces.",
       "parts": []
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/fraʊst/"
   },
   {
     "word": "orts",
@@ -11516,7 +12367,8 @@ const WORDS = [
         "ort → food scrap, leaving"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ɔːrts/"
   },
   {
     "word": "nutation",
@@ -11529,7 +12381,8 @@ const WORDS = [
         "nutare → to nod, to sway"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/njuːˈteɪ.ʃən/"
   },
   {
     "word": "floccinaucinihilipilification",
@@ -11545,7 +12398,8 @@ const WORDS = [
         "pili → a hair, trifle"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌflɒk.sɪˌnɔː.sɪˌnaɪ.ɪ.lɪˌpɪl.ɪ.fɪˈkeɪ.ʃən/"
   },
   {
     "word": "noctuary",
@@ -11558,7 +12412,8 @@ const WORDS = [
         "nox/noctis → night"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈnɒk.tʃu.ɛr.i/"
   },
   {
     "word": "tergiversate",
@@ -11572,7 +12427,8 @@ const WORDS = [
         "versare → to turn"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈtɜr.dʒɪ.vər.seɪt/"
   },
   {
     "word": "gewgaw",
@@ -11583,7 +12439,8 @@ const WORDS = [
       "origin": "Origin uncertain; possibly a reduplication of 'gaw' (to stare at), or from Old French 'jou-jou' (toy, plaything). The doubled syllable captures the trifling, repetitive nature of baubles.",
       "parts": []
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈɡjuː.ɡɔː/"
   },
   {
     "word": "tintinnabulation",
@@ -11596,7 +12453,8 @@ const WORDS = [
         "tinnire → to ring, tinkle"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌtɪn.tɪˌnæb.jʊˈleɪ.ʃən/"
   },
   {
     "word": "pettifoggery",
@@ -11610,7 +12468,8 @@ const WORDS = [
         "fogger → unscrupulous dealer"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈpɛt.i.fɒɡ.ər.i/"
   },
   {
     "word": "dragoman",
@@ -11623,7 +12482,8 @@ const WORDS = [
         "tarjumān → interpreter, translator"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈdræɡ.ə.mən/"
   },
   {
     "word": "elision",
@@ -11637,7 +12497,8 @@ const WORDS = [
         "laedere → to strike, injure"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ɪˈlɪʒ.ən/"
   },
   {
     "word": "telic",
@@ -11650,7 +12511,8 @@ const WORDS = [
         "telos → end, goal, completion"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈtɛl.ɪk/"
   },
   {
     "word": "heteroclite",
@@ -11664,7 +12526,8 @@ const WORDS = [
         "klinein → to lean, to inflect"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈhɛt.ər.ə.klaɪt/"
   },
   {
     "word": "megrims",
@@ -11678,7 +12541,8 @@ const WORDS = [
         "kranion → skull"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈmiː.ɡrɪmz/"
   },
   {
     "word": "skullduggery",
@@ -11689,7 +12553,8 @@ const WORDS = [
       "origin": "Origin disputed; possibly from Scottish 'sculduddery' (obscenity, fornication), which shifted meaning. First appears in American English in the 1860s meaning dishonest practices.",
       "parts": []
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/skʌlˈdʌɡ.ər.i/"
   },
   {
     "word": "welter",
@@ -11702,7 +12567,8 @@ const WORDS = [
         "welteren → to roll, toss"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈwɛl.tər/"
   },
   {
     "word": "galimaufry",
@@ -11716,7 +12582,8 @@ const WORDS = [
         "mafrer → to eat greedily"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌɡæl.ɪˈmɔː.fri/"
   },
   {
     "word": "sternutation",
@@ -11729,7 +12596,8 @@ const WORDS = [
         "sternuere → to sneeze"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌstɜr.njʊˈteɪ.ʃən/"
   },
   {
     "word": "deipnosophist",
@@ -11743,7 +12611,8 @@ const WORDS = [
         "sophistes → expert, wise man"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/deɪpˈnɒs.ə.fɪst/"
   },
   {
     "word": "osculation",
@@ -11757,7 +12626,8 @@ const WORDS = [
         "osculum → little mouth, kiss"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌɒs.kjʊˈleɪ.ʃən/"
   },
   {
     "word": "tarantism",
@@ -11770,7 +12640,8 @@ const WORDS = [
         "Taranto → city in southern Italy"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈtær.ən.tɪz.əm/"
   },
   {
     "word": "quodlibet",
@@ -11784,7 +12655,8 @@ const WORDS = [
         "libet → it pleases"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈkwɒd.lɪ.bɛt/"
   },
   {
     "word": "griffonage",
@@ -11798,7 +12670,8 @@ const WORDS = [
         "griffonner → to scrawl, scratch"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈɡrɪf.ə.nɑːʒ/"
   },
   {
     "word": "sorites",
@@ -11811,7 +12684,8 @@ const WORDS = [
         "soros → heap, pile"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/səˈraɪ.tiːz/"
   },
   {
     "word": "yclept",
@@ -11825,7 +12699,8 @@ const WORDS = [
         "cleopian → to call, to name"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ɪˈklɛpt/"
   },
   {
     "word": "discalced",
@@ -11840,7 +12715,8 @@ const WORDS = [
         "calx → heel"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/dɪsˈkælst/"
   },
   {
     "word": "pullulate",
@@ -11854,7 +12730,8 @@ const WORDS = [
         "pullulus → small sprout"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈpʌl.jʊ.leɪt/"
   },
   {
     "word": "aleatoric",
@@ -11867,7 +12744,8 @@ const WORDS = [
         "alea → die, chance, risk"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌeɪ.li.əˈtɔr.ɪk/"
   },
   {
     "word": "nubilous",
@@ -11881,7 +12759,8 @@ const WORDS = [
         "nubilus → cloudy, overcast"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈnjuː.bɪ.ləs/"
   },
   {
     "word": "nugipercilous",
@@ -11895,7 +12774,8 @@ const WORDS = [
         "supercilium → eyebrow, haughty manner"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌnjuː.dʒɪˈpɜr.sɪ.ləs/"
   },
   {
     "word": "scriptorium",
@@ -11909,7 +12789,8 @@ const WORDS = [
         "scriptor → writer"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/skrɪpˈtɔr.i.əm/"
   },
   {
     "word": "paregoric",
@@ -11923,7 +12804,8 @@ const WORDS = [
         "agoreuein → to speak, address"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˌpær.ɪˈɡɔr.ɪk/"
   },
   {
     "word": "thalweg",
@@ -11937,7 +12819,8 @@ const WORDS = [
         "Weg → way, path"
       ]
     },
-    "tier": 3
+    "tier": 3,
+    "pronunciation": "/ˈtɑl.vɛɡ/"
   }
 ];
 
@@ -11987,7 +12870,8 @@ const ASSESSMENT_WORDS = [
     },
     "tier": 1,
     "assessment": true,
-    "assessmentLevel": 3
+    "assessmentLevel": 3,
+    "pronunciation": "/ˈtrʌk.jʊ.lənt/"
   },
   {
     "word": "pusillanimous",
@@ -12003,7 +12887,8 @@ const ASSESSMENT_WORDS = [
     },
     "tier": 2,
     "assessment": true,
-    "assessmentLevel": 4
+    "assessmentLevel": 4,
+    "pronunciation": "/ˌpju.sɪˈlæn.ɪ.məs/"
   },
   {
     "word": "defenestration",
@@ -12019,7 +12904,8 @@ const ASSESSMENT_WORDS = [
     },
     "tier": 2,
     "assessment": true,
-    "assessmentLevel": 5
+    "assessmentLevel": 5,
+    "pronunciation": "/dɪˌfɛn.ɪˈstreɪ.ʃən/"
   },
   {
     "word": "sesquipedalian",
@@ -12035,7 +12921,8 @@ const ASSESSMENT_WORDS = [
     },
     "tier": 2,
     "assessment": true,
-    "assessmentLevel": 6
+    "assessmentLevel": 6,
+    "pronunciation": "/ˌsɛs.kwɪ.pɪˈdeɪ.li.ən/"
   },
   {
     "word": "callipygian",
@@ -12051,7 +12938,8 @@ const ASSESSMENT_WORDS = [
     },
     "tier": 3,
     "assessment": true,
-    "assessmentLevel": 7
+    "assessmentLevel": 7,
+    "pronunciation": "/ˌkæl.ɪˈpɪdʒ.i.ən/"
   },
   {
     "word": "tmesis",
@@ -12066,7 +12954,8 @@ const ASSESSMENT_WORDS = [
     },
     "tier": 3,
     "assessment": true,
-    "assessmentLevel": 8
+    "assessmentLevel": 8,
+    "pronunciation": "/təˈmi.sɪs/"
   }
 ];
 

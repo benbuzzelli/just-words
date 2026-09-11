@@ -238,6 +238,7 @@ function renderDetail(wordStr) {
 
   container.innerHTML = `
     <h2 class="detail-word">${wordData.word}</h2>
+    ${wordData.pronunciation ? `<p class="detail-pronunciation">${wordData.pronunciation}</p>` : ''}
     <p class="detail-pos">${wordData.pos}</p>
     <div class="detail-section">
       <div class="detail-section-title">Definition</div>
