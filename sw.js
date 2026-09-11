@@ -1,11 +1,11 @@
-const CACHE_NAME = 'justwords-v2';
+const CACHE_NAME = 'justwords-v3';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/style.css',
-  '/app.js',
-  '/words.js',
-  '/manifest.json',
+  './',
+  './index.html',
+  './style.css',
+  './app.js',
+  './words.js',
+  './manifest.json',
 ];
 
 self.addEventListener('install', (event) => {

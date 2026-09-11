@@ -2,7 +2,7 @@
   "name": "Just Words",
   "short_name": "Just Words",
   "description": "Learn obscure & beautiful English words, one day at a time.",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#0f0f1a",
   "theme_color": "#1a1a2e",
