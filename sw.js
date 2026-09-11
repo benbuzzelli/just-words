@@ -1,4 +1,4 @@
-const CACHE_NAME = 'justwords-v3';
+const CACHE_NAME = 'justwords-v4';
 const ASSETS = [
   './',
   './index.html',
@@ -25,13 +25,14 @@ self.addEventListener('activate', (event) => {
 });
 
 self.addEventListener('fetch', (event) => {
+  // Network-first, fall back to cache (ensures updates are picked up)
   event.respondWith(
-    caches.match(event.request).then(cached => {
-      // Network-first for HTML, cache-first for assets
-      if (event.request.mode === 'navigate') {
-        return fetch(event.request).catch(() => cached);
-      }
-      return cached || fetch(event.request);
-    })
+    fetch(event.request)
+      .then(response => {
+        const clone = response.clone();
+        caches.open(CACHE_NAME).then(cache => cache.put(event.request, clone));
+        return response;
+      })
+      .catch(() => caches.match(event.request))
   );
 });
